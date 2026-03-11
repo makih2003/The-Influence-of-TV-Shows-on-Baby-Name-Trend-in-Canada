@@ -2,6 +2,14 @@
 This data science project is to investigate whether characters from popular TV shows influence baby name trends in Canada. Key question in analysis is:<br>
 **Do popular TV show characters influence baby name usage in Canada?**
 
+## Key Accomplishments
+
+•	Analyzed and cleaned over 400,000 raw records across multiple datasets. <br>
+• Identified and resolving 10+ formatting issues (e.g., missing values, inconsistent spacing, duplicated rows) using Python and Pandas, resulting in a more robust and reliable analysis. <br>
+•	Inspected statistical assumptions for T-tests using normality (D’Agostino’s) and variance (Levene’s) tests with SciPy and Statsmodels. <br>
+• Applied log transformation to meet test conditions, which effectively ensured the reliability of the statical test results.<br>
+•	Conducted T-tests and Mann-Whitney U tests in Python to assess shifts in baby name popularity and identified over 150 statistically significant name–show pairs. Created box plots to visually highlight key statistical findings and enhance interpretability of results. <br>
+
 ## Cloning the Repository
 **This repository uses Git Large File Storage (Git LFS) to manage large data files.**
 1. Install Git LFS (if you haven't already):
