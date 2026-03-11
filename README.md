@@ -1,5 +1,5 @@
 ## Overview
-This project investigates whether characters from popular TV shows influence baby name trends in Canada. Key question in analysis is:<br>
+This data science project is to investigate whether characters from popular TV shows influence baby name trends in Canada. Key question in analysis is:<br>
 **Do popular TV show characters influence baby name usage in Canada?**
 
 ## Cloning the Repository
