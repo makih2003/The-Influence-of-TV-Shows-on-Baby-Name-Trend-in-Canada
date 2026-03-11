@@ -1,6 +1,3 @@
-# THE INFLUENCE OF TV SHOWS ON BABY NAME TRENDS IN CANADA
-This repository contains the final project for CMPT 353: Computational Data Science at Simon Fraser University (Summer 2025).
-
 ## Overview
 This project investigates whether characters from popular TV shows influence baby name trends in Canada. Key question in analysis is:<br>
 **Do popular TV show characters influence baby name usage in Canada?**
