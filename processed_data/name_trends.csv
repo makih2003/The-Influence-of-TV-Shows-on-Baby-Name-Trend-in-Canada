@@ -1,0 +1,4551 @@
+firstName,title,years_from_release,count
+James,In Living Color,-3,259
+James,In Living Color,-2,239
+James,In Living Color,-1,275
+James,In Living Color,0,239
+James,In Living Color,1,265
+James,In Living Color,2,230
+James,In Living Color,3,189
+Jake,In Living Color,-3,10
+Jake,In Living Color,-2,13
+Jake,In Living Color,-1,16
+Jake,In Living Color,0,19
+Jake,In Living Color,1,34
+Jake,In Living Color,2,30
+Jake,In Living Color,3,34
+Joel,Northern Exposure,-3,110
+Joel,Northern Exposure,-2,106
+Joel,Northern Exposure,-1,118
+Joel,Northern Exposure,0,111
+Joel,Northern Exposure,1,95
+Joel,Northern Exposure,2,100
+Joel,Northern Exposure,3,93
+Dale,Twin Peaks,-3,31
+Dale,Twin Peaks,-2,23
+Dale,Twin Peaks,-1,22
+Dale,Twin Peaks,0,26
+Dale,Twin Peaks,1,17
+Dale,Twin Peaks,2,22
+Dale,Twin Peaks,3,19
+Shelly,Twin Peaks,-3,7
+Shelly,Twin Peaks,-2,7
+Shelly,Twin Peaks,-1,5
+Shelly,Twin Peaks,0,6
+Shelly,Twin Peaks,1,1
+Shelly,Twin Peaks,2,5
+Shelly,Twin Peaks,3,5
+Marshall,"Eerie, Indiana",-3,7
+Marshall,"Eerie, Indiana",-2,13
+Marshall,"Eerie, Indiana",-1,15
+Marshall,"Eerie, Indiana",0,11
+Marshall,"Eerie, Indiana",1,20
+Marshall,"Eerie, Indiana",2,12
+Marshall,"Eerie, Indiana",3,8
+Simon,"Eerie, Indiana",-3,25
+Simon,"Eerie, Indiana",-2,28
+Simon,"Eerie, Indiana",-1,25
+Simon,"Eerie, Indiana",0,20
+Simon,"Eerie, Indiana",1,27
+Simon,"Eerie, Indiana",2,28
+Simon,"Eerie, Indiana",3,11
+Bruce,Batman: The Animated Series,-3,14
+Bruce,Batman: The Animated Series,-2,9
+Bruce,Batman: The Animated Series,-1,10
+Bruce,Batman: The Animated Series,0,10
+Bruce,Batman: The Animated Series,1,8
+Bruce,Batman: The Animated Series,2,7
+Bruce,Batman: The Animated Series,3,4
+Thomas,Batman: The Animated Series,-3,152
+Thomas,Batman: The Animated Series,-2,151
+Thomas,Batman: The Animated Series,-1,170
+Thomas,Batman: The Animated Series,0,138
+Thomas,Batman: The Animated Series,1,120
+Thomas,Batman: The Animated Series,2,123
+Thomas,Batman: The Animated Series,3,129
+Larry,The Larry Sanders Show,-3,3
+Larry,The Larry Sanders Show,-2,4
+Larry,The Larry Sanders Show,-1,6
+Larry,The Larry Sanders Show,0,4
+Larry,The Larry Sanders Show,1,5
+Larry,The Larry Sanders Show,2,6
+Larry,The Larry Sanders Show,3,2
+Stephen,Babylon 5,-3,147
+Stephen,Babylon 5,-2,107
+Stephen,Babylon 5,-1,94
+Stephen,Babylon 5,0,70
+Stephen,Babylon 5,1,76
+Stephen,Babylon 5,2,54
+Stephen,Babylon 5,3,52
+Cory,Boy Meets World,-3,85
+Cory,Boy Meets World,-2,64
+Cory,Boy Meets World,-1,56
+Cory,Boy Meets World,0,38
+Cory,Boy Meets World,1,54
+Cory,Boy Meets World,2,24
+Cory,Boy Meets World,3,24
+Ben,Boy Meets World,-3,6
+Ben,Boy Meets World,-2,9
+Ben,Boy Meets World,-1,14
+Ben,Boy Meets World,0,8
+Ben,Boy Meets World,1,4
+Ben,Boy Meets World,2,10
+Ben,Boy Meets World,3,6
+Rory,Boy Meets World,-3,19
+Rory,Boy Meets World,-2,10
+Rory,Boy Meets World,-1,14
+Rory,Boy Meets World,0,13
+Rory,Boy Meets World,1,7
+Rory,Boy Meets World,2,10
+Rory,Boy Meets World,3,14
+Edward,Cracker,-3,23
+Edward,Cracker,-2,20
+Edward,Cracker,-1,24
+Edward,Cracker,0,29
+Edward,Cracker,1,29
+Edward,Cracker,2,22
+Edward,Cracker,3,18
+Jane,Cracker,-3,15
+Jane,Cracker,-2,4
+Jane,Cracker,-1,6
+Jane,Cracker,0,12
+Jane,Cracker,1,6
+Jane,Cracker,2,10
+Jane,Cracker,3,6
+Mark,Cracker,-3,172
+Mark,Cracker,-2,156
+Mark,Cracker,-1,122
+Mark,Cracker,0,117
+Mark,Cracker,1,91
+Mark,Cracker,2,101
+Mark,Cracker,3,83
+John,Homicide: Life on the Street,-3,144
+John,Homicide: Life on the Street,-2,152
+John,Homicide: Life on the Street,-1,132
+John,Homicide: Life on the Street,0,129
+John,Homicide: Life on the Street,1,115
+John,Homicide: Life on the Street,2,104
+John,Homicide: Life on the Street,3,87
+Benjamin,Star Trek: Deep Space Nine,-3,147
+Benjamin,Star Trek: Deep Space Nine,-2,132
+Benjamin,Star Trek: Deep Space Nine,-1,119
+Benjamin,Star Trek: Deep Space Nine,0,119
+Benjamin,Star Trek: Deep Space Nine,1,146
+Benjamin,Star Trek: Deep Space Nine,2,127
+Benjamin,Star Trek: Deep Space Nine,3,147
+Dana,The X-Files,-3,44
+Dana,The X-Files,-2,43
+Dana,The X-Files,-1,48
+Dana,The X-Files,0,34
+Dana,The X-Files,1,24
+Dana,The X-Files,2,25
+Dana,The X-Files,3,30
+Rachel,Friends,-3,105
+Rachel,Friends,-2,103
+Rachel,Friends,-1,118
+Rachel,Friends,0,100
+Rachel,Friends,1,141
+Rachel,Friends,2,146
+Rachel,Friends,3,123
+Monica,Friends,-3,16
+Monica,Friends,-2,21
+Monica,Friends,-1,26
+Monica,Friends,0,21
+Monica,Friends,1,27
+Monica,Friends,2,28
+Monica,Friends,3,21
+Morgan,Gargoyles,-3,103
+Morgan,Gargoyles,-2,113
+Morgan,Gargoyles,-1,112
+Morgan,Gargoyles,0,153
+Morgan,Gargoyles,1,143
+Morgan,Gargoyles,2,136
+Morgan,Gargoyles,3,151
+Alan,"Knowing Me, Knowing You with Alan Partridge",-3,18
+Alan,"Knowing Me, Knowing You with Alan Partridge",-2,18
+Alan,"Knowing Me, Knowing You with Alan Partridge",-1,13
+Alan,"Knowing Me, Knowing You with Alan Partridge",0,17
+Alan,"Knowing Me, Knowing You with Alan Partridge",1,8
+Alan,"Knowing Me, Knowing You with Alan Partridge",2,12
+Alan,"Knowing Me, Knowing You with Alan Partridge",3,9
+Charlotte,"Knowing Me, Knowing You with Alan Partridge",-3,10
+Charlotte,"Knowing Me, Knowing You with Alan Partridge",-2,17
+Charlotte,"Knowing Me, Knowing You with Alan Partridge",-1,20
+Charlotte,"Knowing Me, Knowing You with Alan Partridge",0,19
+Charlotte,"Knowing Me, Knowing You with Alan Partridge",1,12
+Charlotte,"Knowing Me, Knowing You with Alan Partridge",2,20
+Charlotte,"Knowing Me, Knowing You with Alan Partridge",3,11
+Angela,My So-Called Life,-3,56
+Angela,My So-Called Life,-2,54
+Angela,My So-Called Life,-1,37
+Angela,My So-Called Life,0,55
+Angela,My So-Called Life,1,43
+Angela,My So-Called Life,2,41
+Angela,My So-Called Life,3,23
+Jack,Father Ted,-3,16
+Jack,Father Ted,-2,18
+Jack,Father Ted,-1,26
+Jack,Father Ted,0,29
+Jack,Father Ted,1,34
+Jack,Father Ted,2,44
+Jack,Father Ted,3,51
+Andy,Life with Louie,-3,12
+Andy,Life with Louie,-2,15
+Andy,Life with Louie,-1,10
+Andy,Life with Louie,0,8
+Andy,Life with Louie,1,20
+Andy,Life with Louie,2,11
+Andy,Life with Louie,3,12
+Josh,Mr. Show with Bob and David,-3,9
+Josh,Mr. Show with Bob and David,-2,5
+Josh,Mr. Show with Bob and David,-1,7
+Josh,Mr. Show with Bob and David,0,8
+Josh,Mr. Show with Bob and David,1,13
+Josh,Mr. Show with Bob and David,2,4
+Josh,Mr. Show with Bob and David,3,10
+Jimmy,NewsRadio,-3,11
+Jimmy,NewsRadio,-2,7
+Jimmy,NewsRadio,-1,8
+Jimmy,NewsRadio,0,8
+Jimmy,NewsRadio,1,5
+Jimmy,NewsRadio,2,6
+Jimmy,NewsRadio,3,8
+Matthew,NewsRadio,-3,441
+Matthew,NewsRadio,-2,432
+Matthew,NewsRadio,-1,382
+Matthew,NewsRadio,0,398
+Matthew,NewsRadio,1,358
+Matthew,NewsRadio,2,324
+Matthew,NewsRadio,3,368
+Frank,Millennium,-3,4
+Frank,Millennium,-2,9
+Frank,Millennium,-1,6
+Frank,Millennium,0,14
+Frank,Millennium,1,9
+Frank,Millennium,2,4
+Frank,Millennium,3,9
+Catherine,Millennium,-3,24
+Catherine,Millennium,-2,30
+Catherine,Millennium,-1,44
+Catherine,Millennium,0,17
+Catherine,Millennium,1,37
+Catherine,Millennium,2,27
+Catherine,Millennium,3,29
+Peter,Millennium,-3,73
+Peter,Millennium,-2,76
+Peter,Millennium,-1,62
+Peter,Millennium,0,51
+Peter,Millennium,1,53
+Peter,Millennium,2,46
+Peter,Millennium,3,49
+Christopher,Brass Eye,-3,247
+Christopher,Brass Eye,-2,231
+Christopher,Brass Eye,-1,169
+Christopher,Brass Eye,0,172
+Christopher,Brass Eye,1,172
+Christopher,Brass Eye,2,140
+Christopher,Brass Eye,3,115
+Austen,Brass Eye,-3,6
+Austen,Brass Eye,-2,6
+Austen,Brass Eye,-1,13
+Austen,Brass Eye,0,7
+Austen,Brass Eye,1,2
+Austen,Brass Eye,2,8
+Austen,Brass Eye,3,2
+Faith,Buffy the Vampire Slayer,-3,9
+Faith,Buffy the Vampire Slayer,-2,13
+Faith,Buffy the Vampire Slayer,-1,19
+Faith,Buffy the Vampire Slayer,0,32
+Faith,Buffy the Vampire Slayer,1,34
+Faith,Buffy the Vampire Slayer,2,39
+Faith,Buffy the Vampire Slayer,3,45
+Jane,Daria,-3,6
+Jane,Daria,-2,10
+Jane,Daria,-1,6
+Jane,Daria,0,8
+Jane,Daria,1,9
+Jane,Daria,2,8
+Jane,Daria,3,11
+Quinn,Daria,-3,20
+Quinn,Daria,-2,30
+Quinn,Daria,-1,34
+Quinn,Daria,0,35
+Quinn,Daria,1,31
+Quinn,Daria,2,45
+Quinn,Daria,3,51
+Jonathan,Jonathan Creek,-3,115
+Jonathan,Jonathan Creek,-2,114
+Jonathan,Jonathan Creek,-1,113
+Jonathan,Jonathan Creek,0,88
+Jonathan,Jonathan Creek,1,113
+Jonathan,Jonathan Creek,2,100
+Jonathan,Jonathan Creek,3,83
+Adam,Jonathan Creek,-3,160
+Adam,Jonathan Creek,-2,128
+Adam,Jonathan Creek,-1,103
+Adam,Jonathan Creek,0,109
+Adam,Jonathan Creek,1,125
+Adam,Jonathan Creek,2,128
+Adam,Jonathan Creek,3,119
+Jack,Stargate SG-1,-3,26
+Jack,Stargate SG-1,-2,29
+Jack,Stargate SG-1,-1,34
+Jack,Stargate SG-1,0,44
+Jack,Stargate SG-1,1,51
+Jack,Stargate SG-1,2,73
+Jack,Stargate SG-1,3,82
+Eric,South Park,-3,137
+Eric,South Park,-2,134
+Eric,South Park,-1,148
+Eric,South Park,0,134
+Eric,South Park,1,123
+Eric,South Park,2,115
+Eric,South Park,3,151
+Randy,South Park,-3,23
+Randy,South Park,-2,26
+Randy,South Park,-1,25
+Randy,South Park,0,18
+Randy,South Park,1,13
+Randy,South Park,2,12
+Randy,South Park,3,12
+Alan,I'm Alan Partridge,-3,17
+Alan,I'm Alan Partridge,-2,8
+Alan,I'm Alan Partridge,-1,12
+Alan,I'm Alan Partridge,0,9
+Alan,I'm Alan Partridge,1,9
+Alan,I'm Alan Partridge,2,10
+Alan,I'm Alan Partridge,3,7
+Michael,I'm Alan Partridge,-3,344
+Michael,I'm Alan Partridge,-2,304
+Michael,I'm Alan Partridge,-1,230
+Michael,I'm Alan Partridge,0,237
+Michael,I'm Alan Partridge,1,196
+Michael,I'm Alan Partridge,2,202
+Michael,I'm Alan Partridge,3,177
+Denise,The Royle Family,-3,4
+Denise,The Royle Family,-2,5
+Denise,The Royle Family,-1,2
+Denise,The Royle Family,0,5
+Denise,The Royle Family,1,6
+Denise,The Royle Family,2,5
+Denise,The Royle Family,3,6
+Tony,The Sopranos,-3,11
+Tony,The Sopranos,-2,10
+Tony,The Sopranos,-1,10
+Tony,The Sopranos,0,7
+Tony,The Sopranos,1,7
+Tony,The Sopranos,2,10
+Tony,The Sopranos,3,5
+Jennifer,The Sopranos,-3,129
+Jennifer,The Sopranos,-2,103
+Jennifer,The Sopranos,-1,84
+Jennifer,The Sopranos,0,60
+Jennifer,The Sopranos,1,51
+Jennifer,The Sopranos,2,53
+Jennifer,The Sopranos,3,51
+Terry,Batman Beyond,-3,6
+Terry,Batman Beyond,-2,12
+Terry,Batman Beyond,-1,4
+Terry,Batman Beyond,0,2
+Terry,Batman Beyond,1,7
+Terry,Batman Beyond,2,5
+Terry,Batman Beyond,3,3
+Philip,Futurama,-3,15
+Philip,Futurama,-2,16
+Philip,Futurama,-1,10
+Philip,Futurama,0,12
+Philip,Futurama,1,15
+Philip,Futurama,2,12
+Philip,Futurama,3,12
+Eric,That '70s Show,-3,134
+Eric,That '70s Show,-2,148
+Eric,That '70s Show,-1,134
+Eric,That '70s Show,0,123
+Eric,That '70s Show,1,115
+Eric,That '70s Show,2,151
+Eric,That '70s Show,3,103
+Donna,That '70s Show,-3,4
+Donna,That '70s Show,-2,3
+Donna,That '70s Show,-1,6
+Donna,That '70s Show,0,5
+Donna,That '70s Show,1,3
+Donna,That '70s Show,2,7
+Donna,That '70s Show,3,3
+Jackie,That '70s Show,-3,4
+Jackie,That '70s Show,-2,7
+Jackie,That '70s Show,-1,4
+Jackie,That '70s Show,0,6
+Jackie,That '70s Show,1,6
+Jackie,That '70s Show,2,4
+Jackie,That '70s Show,3,3
+Casey,Sports Night,-3,30
+Casey,Sports Night,-2,33
+Casey,Sports Night,-1,23
+Casey,Sports Night,0,25
+Casey,Sports Night,1,21
+Casey,Sports Night,2,16
+Casey,Sports Night,3,20
+Dana,Sports Night,-3,25
+Dana,Sports Night,-2,30
+Dana,Sports Night,-1,30
+Dana,Sports Night,0,29
+Dana,Sports Night,1,35
+Dana,Sports Night,2,15
+Dana,Sports Night,3,9
+Peter,Family Guy,-3,51
+Peter,Family Guy,-2,53
+Peter,Family Guy,-1,46
+Peter,Family Guy,0,49
+Peter,Family Guy,1,42
+Peter,Family Guy,2,35
+Peter,Family Guy,3,34
+Brian,Family Guy,-3,31
+Brian,Family Guy,-2,36
+Brian,Family Guy,-1,32
+Brian,Family Guy,0,27
+Brian,Family Guy,1,23
+Brian,Family Guy,2,27
+Brian,Family Guy,3,30
+Charlie,The League of Gentlemen,-3,2
+Charlie,The League of Gentlemen,-2,5
+Charlie,The League of Gentlemen,-1,5
+Charlie,The League of Gentlemen,0,7
+Charlie,The League of Gentlemen,1,7
+Charlie,The League of Gentlemen,2,5
+Charlie,The League of Gentlemen,3,10
+Stuart,Queer as Folk,-3,16
+Stuart,Queer as Folk,-2,12
+Stuart,Queer as Folk,-1,4
+Stuart,Queer as Folk,0,8
+Stuart,Queer as Folk,1,4
+Stuart,Queer as Folk,2,7
+Stuart,Queer as Folk,3,3
+Nathan,Queer as Folk,-3,148
+Nathan,Queer as Folk,-2,126
+Nathan,Queer as Folk,-1,152
+Nathan,Queer as Folk,0,147
+Nathan,Queer as Folk,1,150
+Nathan,Queer as Folk,2,148
+Nathan,Queer as Folk,3,152
+John,Farscape,-3,87
+John,Farscape,-2,104
+John,Farscape,-1,95
+John,Farscape,0,103
+John,Farscape,1,76
+John,Farscape,2,69
+John,Farscape,3,81
+Daisy,Spaced,-3,2
+Daisy,Spaced,-2,3
+Daisy,Spaced,-1,3
+Daisy,Spaced,0,2
+Daisy,Spaced,1,8
+Daisy,Spaced,2,11
+Daisy,Spaced,3,5
+Amber,Spaced,-3,72
+Amber,Spaced,-2,52
+Amber,Spaced,-1,102
+Amber,Spaced,0,60
+Amber,Spaced,1,51
+Amber,Spaced,2,54
+Amber,Spaced,3,49
+Lindsay,Freaks and Geeks,-3,34
+Lindsay,Freaks and Geeks,-2,28
+Lindsay,Freaks and Geeks,-1,28
+Lindsay,Freaks and Geeks,0,25
+Lindsay,Freaks and Geeks,1,17
+Lindsay,Freaks and Geeks,2,17
+Lindsay,Freaks and Geeks,3,16
+Sam,Freaks and Geeks,-3,4
+Sam,Freaks and Geeks,-2,5
+Sam,Freaks and Geeks,-1,11
+Sam,Freaks and Geeks,0,8
+Sam,Freaks and Geeks,1,10
+Sam,Freaks and Geeks,2,11
+Sam,Freaks and Geeks,3,9
+Daniel,Freaks and Geeks,-3,194
+Daniel,Freaks and Geeks,-2,176
+Daniel,Freaks and Geeks,-1,174
+Daniel,Freaks and Geeks,0,175
+Daniel,Freaks and Geeks,1,179
+Daniel,Freaks and Geeks,2,133
+Daniel,Freaks and Geeks,3,169
+Geoffrey,Strangers with Candy,-3,10
+Geoffrey,Strangers with Candy,-2,8
+Geoffrey,Strangers with Candy,-1,10
+Geoffrey,Strangers with Candy,0,5
+Geoffrey,Strangers with Candy,1,3
+Geoffrey,Strangers with Candy,2,4
+Geoffrey,Strangers with Candy,3,3
+Brendon,Home Movies,-3,12
+Brendon,Home Movies,-2,16
+Brendon,Home Movies,-1,15
+Brendon,Home Movies,0,16
+Brendon,Home Movies,1,11
+Brendon,Home Movies,2,8
+Brendon,Home Movies,3,5
+Tyrone,Third Watch,-3,6
+Tyrone,Third Watch,-2,15
+Tyrone,Third Watch,-1,6
+Tyrone,Third Watch,0,12
+Tyrone,Third Watch,1,5
+Tyrone,Third Watch,2,15
+Tyrone,Third Watch,3,9
+John,Third Watch,-3,87
+John,Third Watch,-2,104
+John,Third Watch,-1,95
+John,Third Watch,0,103
+John,Third Watch,1,76
+John,Third Watch,2,69
+John,Third Watch,3,81
+Josiah,The West Wing,-3,11
+Josiah,The West Wing,-2,15
+Josiah,The West Wing,-1,14
+Josiah,The West Wing,0,14
+Josiah,The West Wing,1,27
+Josiah,The West Wing,2,12
+Josiah,The West Wing,3,22
+Sam,The West Wing,-3,4
+Sam,The West Wing,-2,5
+Sam,The West Wing,-1,11
+Sam,The West Wing,0,8
+Sam,The West Wing,1,10
+Sam,The West Wing,2,11
+Sam,The West Wing,3,9
+Olivia,Law & Order: Special Victims Unit,-3,44
+Olivia,Law & Order: Special Victims Unit,-2,61
+Olivia,Law & Order: Special Victims Unit,-1,74
+Olivia,Law & Order: Special Victims Unit,0,83
+Olivia,Law & Order: Special Victims Unit,1,99
+Olivia,Law & Order: Special Victims Unit,2,118
+Olivia,Law & Order: Special Victims Unit,3,130
+Gary,SpongeBob SquarePants,-3,12
+Gary,SpongeBob SquarePants,-2,11
+Gary,SpongeBob SquarePants,-1,14
+Gary,SpongeBob SquarePants,0,4
+Gary,SpongeBob SquarePants,1,8
+Gary,SpongeBob SquarePants,2,5
+Gary,SpongeBob SquarePants,3,7
+Malcolm,Malcolm in the Middle,-3,7
+Malcolm,Malcolm in the Middle,-2,15
+Malcolm,Malcolm in the Middle,-1,7
+Malcolm,Malcolm in the Middle,0,18
+Malcolm,Malcolm in the Middle,1,8
+Malcolm,Malcolm in the Middle,2,9
+Malcolm,Malcolm in the Middle,3,16
+Randy,Courage the Cowardly Dog,-3,25
+Randy,Courage the Cowardly Dog,-2,18
+Randy,Courage the Cowardly Dog,-1,13
+Randy,Courage the Cowardly Dog,0,12
+Randy,Courage the Cowardly Dog,1,12
+Randy,Courage the Cowardly Dog,2,6
+Randy,Courage the Cowardly Dog,3,8
+Jane,Coupling,-3,8
+Jane,Coupling,-2,9
+Jane,Coupling,-1,8
+Jane,Coupling,0,11
+Jane,Coupling,1,17
+Jane,Coupling,2,8
+Jane,Coupling,3,6
+Susan,Coupling,-3,12
+Susan,Coupling,-2,3
+Susan,Coupling,-1,11
+Susan,Coupling,0,6
+Susan,Coupling,1,10
+Susan,Coupling,2,3
+Susan,Coupling,3,4
+Rory,Gilmore Girls,-3,11
+Rory,Gilmore Girls,-2,7
+Rory,Gilmore Girls,-1,6
+Rory,Gilmore Girls,0,13
+Rory,Gilmore Girls,1,6
+Rory,Gilmore Girls,2,9
+Rory,Gilmore Girls,3,25
+Lane,Gilmore Girls,-3,40
+Lane,Gilmore Girls,-2,37
+Lane,Gilmore Girls,-1,24
+Lane,Gilmore Girls,0,23
+Lane,Gilmore Girls,1,19
+Lane,Gilmore Girls,2,19
+Lane,Gilmore Girls,3,21
+Ali,Da Ali G Show,-3,19
+Ali,Da Ali G Show,-2,24
+Ali,Da Ali G Show,-1,25
+Ali,Da Ali G Show,0,28
+Ali,Da Ali G Show,1,34
+Ali,Da Ali G Show,2,30
+Ali,Da Ali G Show,3,30
+Nate,Six Feet Under,-3,1
+Nate,Six Feet Under,-2,2
+Nate,Six Feet Under,-1,3
+Nate,Six Feet Under,0,2
+Nate,Six Feet Under,1,5
+Nate,Six Feet Under,2,7
+Nate,Six Feet Under,3,10
+David,Six Feet Under,-3,120
+David,Six Feet Under,-2,109
+David,Six Feet Under,-1,96
+David,Six Feet Under,0,94
+David,Six Feet Under,1,105
+David,Six Feet Under,2,96
+David,Six Feet Under,3,93
+Ruth,Six Feet Under,-3,4
+Ruth,Six Feet Under,-2,4
+Ruth,Six Feet Under,-1,4
+Ruth,Six Feet Under,0,4
+Ruth,Six Feet Under,1,5
+Ruth,Six Feet Under,2,2
+Ruth,Six Feet Under,3,9
+Brian,Queer as Folk,-3,31
+Brian,Queer as Folk,-2,36
+Brian,Queer as Folk,-1,32
+Brian,Queer as Folk,0,27
+Brian,Queer as Folk,1,23
+Brian,Queer as Folk,2,27
+Brian,Queer as Folk,3,30
+Michael,Queer as Folk,-3,230
+Michael,Queer as Folk,-2,237
+Michael,Queer as Folk,-1,196
+Michael,Queer as Folk,0,202
+Michael,Queer as Folk,1,177
+Michael,Queer as Folk,2,164
+Michael,Queer as Folk,3,146
+Justin,Queer as Folk,-3,232
+Justin,Queer as Folk,-2,182
+Justin,Queer as Folk,-1,208
+Justin,Queer as Folk,0,176
+Justin,Queer as Folk,1,179
+Justin,Queer as Folk,2,169
+Justin,Queer as Folk,3,137
+Jack,Samurai Jack,-3,51
+Jack,Samurai Jack,-2,73
+Jack,Samurai Jack,-1,82
+Jack,Samurai Jack,0,94
+Jack,Samurai Jack,1,79
+Jack,Samurai Jack,2,98
+Jack,Samurai Jack,3,100
+Jack,Still Game,-3,73
+Jack,Still Game,-2,82
+Jack,Still Game,-1,94
+Jack,Still Game,0,79
+Jack,Still Game,1,98
+Jack,Still Game,2,100
+Jack,Still Game,3,129
+Victor,Still Game,-3,17
+Victor,Still Game,-2,12
+Victor,Still Game,-1,11
+Victor,Still Game,0,6
+Victor,Still Game,1,13
+Victor,Still Game,2,20
+Victor,Still Game,3,13
+Jack,24,-3,51
+Jack,24,-2,73
+Jack,24,-1,82
+Jack,24,0,94
+Jack,24,1,79
+Jack,24,2,98
+Jack,24,3,100
+Chloe,24,-3,49
+Chloe,24,-2,73
+Chloe,24,-1,77
+Chloe,24,0,90
+Chloe,24,1,100
+Chloe,24,2,98
+Chloe,24,3,100
+Tony,24,-3,10
+Tony,24,-2,7
+Tony,24,-1,7
+Tony,24,0,10
+Tony,24,1,5
+Tony,24,2,8
+Tony,24,3,5
+John,Scrubs,-3,95
+John,Scrubs,-2,103
+John,Scrubs,-1,76
+John,Scrubs,0,69
+John,Scrubs,1,81
+John,Scrubs,2,77
+John,Scrubs,3,75
+Christopher,Scrubs,-3,172
+Christopher,Scrubs,-2,140
+Christopher,Scrubs,-1,115
+Christopher,Scrubs,0,122
+Christopher,Scrubs,1,101
+Christopher,Scrubs,2,86
+Christopher,Scrubs,3,87
+Julien,The Shield,-3,5
+Julien,The Shield,-2,12
+Julien,The Shield,-1,5
+Julien,The Shield,0,6
+Julien,The Shield,1,8
+Julien,The Shield,2,8
+Julien,The Shield,3,9
+David,The Office,-3,120
+David,The Office,-2,109
+David,The Office,-1,96
+David,The Office,0,94
+David,The Office,1,105
+David,The Office,2,96
+David,The Office,3,93
+Julian,Trailer Park Boys,-3,19
+Julian,Trailer Park Boys,-2,19
+Julian,Trailer Park Boys,-1,21
+Julian,Trailer Park Boys,0,27
+Julian,Trailer Park Boys,1,30
+Julian,Trailer Park Boys,2,24
+Julian,Trailer Park Boys,3,25
+Ricky,Trailer Park Boys,-3,6
+Ricky,Trailer Park Boys,-2,5
+Ricky,Trailer Park Boys,-1,7
+Ricky,Trailer Park Boys,0,5
+Ricky,Trailer Park Boys,1,5
+Ricky,Trailer Park Boys,2,6
+Ricky,Trailer Park Boys,3,7
+Malcolm,Firefly,-3,7
+Malcolm,Firefly,-2,18
+Malcolm,Firefly,-1,8
+Malcolm,Firefly,0,9
+Malcolm,Firefly,1,16
+Malcolm,Firefly,2,9
+Malcolm,Firefly,3,9
+Zoë,Firefly,-3,6
+Zoë,Firefly,-2,7
+Zoë,Firefly,-1,8
+Zoë,Firefly,0,9
+Zoë,Firefly,1,16
+Zoë,Firefly,2,14
+Zoë,Firefly,3,17
+James,The Wire,-3,109
+James,The Wire,-2,127
+James,The Wire,-1,131
+James,The Wire,0,113
+James,The Wire,1,125
+James,The Wire,2,139
+James,The Wire,3,126
+Christopher,Foyle's War,-3,140
+Christopher,Foyle's War,-2,115
+Christopher,Foyle's War,-1,122
+Christopher,Foyle's War,0,101
+Christopher,Foyle's War,1,86
+Christopher,Foyle's War,2,87
+Christopher,Foyle's War,3,70
+Samantha,Foyle's War,-3,190
+Samantha,Foyle's War,-2,152
+Samantha,Foyle's War,-1,155
+Samantha,Foyle's War,0,131
+Samantha,Foyle's War,1,121
+Samantha,Foyle's War,2,97
+Samantha,Foyle's War,3,125
+Sam,Foyle's War,-3,8
+Sam,Foyle's War,-2,10
+Sam,Foyle's War,-1,11
+Sam,Foyle's War,0,9
+Sam,Foyle's War,1,15
+Sam,Foyle's War,2,18
+Sam,Foyle's War,3,13
+Adrian,Monk,-3,31
+Adrian,Monk,-2,23
+Adrian,Monk,-1,21
+Adrian,Monk,0,23
+Adrian,Monk,1,21
+Adrian,Monk,2,28
+Adrian,Monk,3,26
+Frank,Monk,-3,9
+Frank,Monk,-2,14
+Frank,Monk,-1,9
+Frank,Monk,0,6
+Frank,Monk,1,5
+Frank,Monk,2,4
+Frank,Monk,3,6
+Randy,Monk,-3,12
+Randy,Monk,-2,12
+Randy,Monk,-1,6
+Randy,Monk,0,8
+Randy,Monk,1,11
+Randy,Monk,2,5
+Randy,Monk,3,6
+Georgia,Dead Like Me,-3,32
+Georgia,Dead Like Me,-2,25
+Georgia,Dead Like Me,-1,27
+Georgia,Dead Like Me,0,32
+Georgia,Dead Like Me,1,32
+Georgia,Dead Like Me,2,38
+Georgia,Dead Like Me,3,45
+Mason,Dead Like Me,-3,72
+Mason,Dead Like Me,-2,85
+Mason,Dead Like Me,-1,100
+Mason,Dead Like Me,0,90
+Mason,Dead Like Me,1,93
+Mason,Dead Like Me,2,89
+Mason,Dead Like Me,3,108
+Seth,Deadwood,-3,78
+Seth,Deadwood,-2,91
+Seth,Deadwood,-1,85
+Seth,Deadwood,0,81
+Seth,Deadwood,1,98
+Seth,Deadwood,2,82
+Seth,Deadwood,3,92
+Eric,Wonderfalls,-3,103
+Eric,Wonderfalls,-2,103
+Eric,Wonderfalls,-1,89
+Eric,Wonderfalls,0,108
+Eric,Wonderfalls,1,77
+Eric,Wonderfalls,2,65
+Eric,Wonderfalls,3,93
+Michael,Arrested Development,-3,177
+Michael,Arrested Development,-2,164
+Michael,Arrested Development,-1,146
+Michael,Arrested Development,0,124
+Michael,Arrested Development,1,128
+Michael,Arrested Development,2,133
+Michael,Arrested Development,3,111
+Lindsay,Arrested Development,-3,17
+Lindsay,Arrested Development,-2,17
+Lindsay,Arrested Development,-1,16
+Lindsay,Arrested Development,0,12
+Lindsay,Arrested Development,1,16
+Lindsay,Arrested Development,2,15
+Lindsay,Arrested Development,3,6
+Trey,Shaman King,-3,19
+Trey,Shaman King,-2,21
+Trey,Shaman King,-1,25
+Trey,Shaman King,0,24
+Trey,Shaman King,1,22
+Trey,Shaman King,2,25
+Trey,Shaman King,3,23
+Riley,The Boondocks,-3,146
+Riley,The Boondocks,-2,137
+Riley,The Boondocks,-1,163
+Riley,The Boondocks,0,176
+Riley,The Boondocks,1,163
+Riley,The Boondocks,2,184
+Riley,The Boondocks,3,161
+Robert,The Boondocks,-3,66
+Robert,The Boondocks,-2,66
+Robert,The Boondocks,-1,63
+Robert,The Boondocks,0,58
+Robert,The Boondocks,1,46
+Robert,The Boondocks,2,55
+Robert,The Boondocks,3,41
+John,Stargate: Atlantis,-3,69
+John,Stargate: Atlantis,-2,81
+John,Stargate: Atlantis,-1,77
+John,Stargate: Atlantis,0,75
+John,Stargate: Atlantis,1,73
+John,Stargate: Atlantis,2,77
+John,Stargate: Atlantis,3,70
+Frank,Shameless,-3,15
+Frank,Shameless,-2,13
+Frank,Shameless,-1,12
+Frank,Shameless,0,11
+Frank,Shameless,1,15
+Frank,Shameless,2,23
+Frank,Shameless,3,14
+Karen,Shameless,-3,9
+Karen,Shameless,-2,5
+Karen,Shameless,-1,11
+Karen,Shameless,0,14
+Karen,Shameless,1,17
+Karen,Shameless,2,15
+Karen,Shameless,3,8
+Albert,Hustle,-3,12
+Albert,Hustle,-2,12
+Albert,Hustle,-1,9
+Albert,Hustle,0,7
+Albert,Hustle,1,7
+Albert,Hustle,2,7
+Albert,Hustle,3,11
+Tommy,Rescue Me,-3,9
+Tommy,Rescue Me,-2,11
+Tommy,Rescue Me,-1,3
+Tommy,Rescue Me,0,7
+Tommy,Rescue Me,1,8
+Tommy,Rescue Me,2,4
+Tommy,Rescue Me,3,6
+Sean,Rescue Me,-3,56
+Sean,Rescue Me,-2,53
+Sean,Rescue Me,-1,41
+Sean,Rescue Me,0,61
+Sean,Rescue Me,1,42
+Sean,Rescue Me,2,53
+Sean,Rescue Me,3,45
+Titus,Rome,-3,6
+Titus,Rome,-2,3
+Titus,Rome,-1,5
+Titus,Rome,0,6
+Titus,Rome,1,5
+Titus,Rome,2,10
+Titus,Rome,3,9
+Michael,The Office,-3,146
+Michael,The Office,-2,124
+Michael,The Office,-1,128
+Michael,The Office,0,133
+Michael,The Office,1,111
+Michael,The Office,2,113
+Michael,The Office,3,105
+Eric,Entourage,-3,103
+Eric,Entourage,-2,103
+Eric,Entourage,-1,89
+Eric,Entourage,0,108
+Eric,Entourage,1,77
+Eric,Entourage,2,65
+Eric,Entourage,3,93
+Vincent,Entourage,-3,17
+Vincent,Entourage,-2,14
+Vincent,Entourage,-1,17
+Vincent,Entourage,0,20
+Vincent,Entourage,1,27
+Vincent,Entourage,2,36
+Vincent,Entourage,3,29
+Johnny,Entourage,-3,8
+Johnny,Entourage,-2,6
+Johnny,Entourage,-1,6
+Johnny,Entourage,0,7
+Johnny,Entourage,1,3
+Johnny,Entourage,2,5
+Johnny,Entourage,3,9
+Mark,Peep Show,-3,48
+Mark,Peep Show,-2,44
+Mark,Peep Show,-1,32
+Mark,Peep Show,0,33
+Mark,Peep Show,1,32
+Mark,Peep Show,2,38
+Mark,Peep Show,3,33
+Jeremy,Peep Show,-3,52
+Jeremy,Peep Show,-2,46
+Jeremy,Peep Show,-1,56
+Jeremy,Peep Show,0,47
+Jeremy,Peep Show,1,42
+Jeremy,Peep Show,2,30
+Jeremy,Peep Show,3,54
+Alan,Boston Legal,-3,6
+Alan,Boston Legal,-2,3
+Alan,Boston Legal,-1,5
+Alan,Boston Legal,0,4
+Alan,Boston Legal,1,6
+Alan,Boston Legal,2,10
+Alan,Boston Legal,3,4
+William,Battlestar Galactica,-3,151
+William,Battlestar Galactica,-2,159
+William,Battlestar Galactica,-1,162
+William,Battlestar Galactica,0,151
+William,Battlestar Galactica,1,161
+William,Battlestar Galactica,2,179
+William,Battlestar Galactica,3,185
+Laura,Battlestar Galactica,-3,35
+Laura,Battlestar Galactica,-2,35
+Laura,Battlestar Galactica,-1,39
+Laura,Battlestar Galactica,0,34
+Laura,Battlestar Galactica,1,27
+Laura,Battlestar Galactica,2,24
+Laura,Battlestar Galactica,3,27
+Martin,Doc Martin,-3,13
+Martin,Doc Martin,-2,14
+Martin,Doc Martin,-1,10
+Martin,Doc Martin,0,13
+Martin,Doc Martin,1,12
+Martin,Doc Martin,2,12
+Martin,Doc Martin,3,11
+James,Lost,-3,131
+James,Lost,-2,113
+James,Lost,-1,125
+James,Lost,0,139
+James,Lost,1,126
+James,Lost,2,124
+James,Lost,3,143
+Gregory,House,-3,25
+Gregory,House,-2,13
+Gregory,House,-1,9
+Gregory,House,0,10
+Gregory,House,1,8
+Gregory,House,2,13
+Gregory,House,3,10
+Eric,House,-3,103
+Eric,House,-2,103
+Eric,House,-1,89
+Eric,House,0,108
+Eric,House,1,77
+Eric,House,2,65
+Eric,House,3,93
+James,House,-3,131
+James,House,-2,113
+James,House,-1,125
+James,House,0,139
+James,House,1,126
+James,House,2,124
+James,House,3,143
+Veronica,Veronica Mars,-3,10
+Veronica,Veronica Mars,-2,11
+Veronica,Veronica Mars,-1,11
+Veronica,Veronica Mars,0,20
+Veronica,Veronica Mars,1,15
+Veronica,Veronica Mars,2,15
+Veronica,Veronica Mars,3,19
+Logan,Veronica Mars,-3,182
+Logan,Veronica Mars,-2,196
+Logan,Veronica Mars,-1,241
+Logan,Veronica Mars,0,210
+Logan,Veronica Mars,1,233
+Logan,Veronica Mars,2,243
+Logan,Veronica Mars,3,244
+Keith,Veronica Mars,-3,10
+Keith,Veronica Mars,-2,11
+Keith,Veronica Mars,-1,7
+Keith,Veronica Mars,0,9
+Keith,Veronica Mars,1,10
+Keith,Veronica Mars,2,3
+Keith,Veronica Mars,3,9
+Dennis,The Mighty Boosh,-3,10
+Dennis,The Mighty Boosh,-2,13
+Dennis,The Mighty Boosh,-1,8
+Dennis,The Mighty Boosh,0,8
+Dennis,The Mighty Boosh,1,6
+Dennis,The Mighty Boosh,2,9
+Dennis,The Mighty Boosh,3,6
+Brian,The Mighty Boosh,-3,23
+Brian,The Mighty Boosh,-2,27
+Brian,The Mighty Boosh,-1,30
+Brian,The Mighty Boosh,0,21
+Brian,The Mighty Boosh,1,26
+Brian,The Mighty Boosh,2,17
+Brian,The Mighty Boosh,3,19
+Edward,Fullmetal Alchemist,-3,14
+Edward,Fullmetal Alchemist,-2,13
+Edward,Fullmetal Alchemist,-1,18
+Edward,Fullmetal Alchemist,0,15
+Edward,Fullmetal Alchemist,1,13
+Edward,Fullmetal Alchemist,2,21
+Edward,Fullmetal Alchemist,3,20
+Courtney,The Soup,-3,46
+Courtney,The Soup,-2,43
+Courtney,The Soup,-1,38
+Courtney,The Soup,0,32
+Courtney,The Soup,1,24
+Courtney,The Soup,2,20
+Courtney,The Soup,3,21
+Valerie,The Comeback,-3,9
+Valerie,The Comeback,-2,5
+Valerie,The Comeback,-1,11
+Valerie,The Comeback,0,2
+Valerie,The Comeback,1,7
+Valerie,The Comeback,2,3
+Valerie,The Comeback,3,5
+Jane,The Comeback,-3,8
+Jane,The Comeback,-2,6
+Jane,The Comeback,-1,11
+Jane,The Comeback,0,12
+Jane,The Comeback,1,12
+Jane,The Comeback,2,15
+Jane,The Comeback,3,22
+Mark,The Comeback,-3,32
+Mark,The Comeback,-2,33
+Mark,The Comeback,-1,32
+Mark,The Comeback,0,38
+Mark,The Comeback,1,33
+Mark,The Comeback,2,26
+Mark,The Comeback,3,19
+Andy,Extras,-3,12
+Andy,Extras,-2,9
+Andy,Extras,-1,12
+Andy,Extras,0,7
+Andy,Extras,1,16
+Andy,Extras,2,15
+Andy,Extras,3,7
+Maggie,Extras,-3,15
+Maggie,Extras,-2,10
+Maggie,Extras,-1,13
+Maggie,Extras,0,15
+Maggie,Extras,1,23
+Maggie,Extras,2,20
+Maggie,Extras,3,14
+Darren,Extras,-3,21
+Darren,Extras,-2,9
+Darren,Extras,-1,8
+Darren,Extras,0,15
+Darren,Extras,1,14
+Darren,Extras,2,14
+Darren,Extras,3,19
+Jennifer,Criminal Minds,-3,51
+Jennifer,Criminal Minds,-2,57
+Jennifer,Criminal Minds,-1,35
+Jennifer,Criminal Minds,0,28
+Jennifer,Criminal Minds,1,35
+Jennifer,Criminal Minds,2,22
+Jennifer,Criminal Minds,3,20
+Spencer,Criminal Minds,-3,63
+Spencer,Criminal Minds,-2,56
+Spencer,Criminal Minds,-1,53
+Spencer,Criminal Minds,0,46
+Spencer,Criminal Minds,1,60
+Spencer,Criminal Minds,2,65
+Spencer,Criminal Minds,3,47
+Lincoln,Prison Break,-3,7
+Lincoln,Prison Break,-2,14
+Lincoln,Prison Break,-1,4
+Lincoln,Prison Break,0,9
+Lincoln,Prison Break,1,25
+Lincoln,Prison Break,2,55
+Lincoln,Prison Break,3,55
+Michael,Prison Break,-3,146
+Michael,Prison Break,-2,124
+Michael,Prison Break,-1,128
+Michael,Prison Break,0,133
+Michael,Prison Break,1,111
+Michael,Prison Break,2,113
+Michael,Prison Break,3,105
+Oliver,The Thick of It,-3,20
+Oliver,The Thick of It,-2,14
+Oliver,The Thick of It,-1,22
+Oliver,The Thick of It,0,27
+Oliver,The Thick of It,1,47
+Oliver,The Thick of It,2,62
+Oliver,The Thick of It,3,81
+Malcolm,The Thick of It,-3,9
+Malcolm,The Thick of It,-2,16
+Malcolm,The Thick of It,-1,9
+Malcolm,The Thick of It,0,9
+Malcolm,The Thick of It,1,20
+Malcolm,The Thick of It,2,18
+Malcolm,The Thick of It,3,19
+Marshall,How I Met Your Mother,-3,18
+Marshall,How I Met Your Mother,-2,17
+Marshall,How I Met Your Mother,-1,18
+Marshall,How I Met Your Mother,0,17
+Marshall,How I Met Your Mother,1,15
+Marshall,How I Met Your Mother,2,13
+Marshall,How I Met Your Mother,3,12
+Robin,How I Met Your Mother,-3,7
+Robin,How I Met Your Mother,-2,9
+Robin,How I Met Your Mother,-1,11
+Robin,How I Met Your Mother,0,10
+Robin,How I Met Your Mother,1,7
+Robin,How I Met Your Mother,2,9
+Robin,How I Met Your Mother,3,7
+Sam,Supernatural,-3,9
+Sam,Supernatural,-2,15
+Sam,Supernatural,-1,18
+Sam,Supernatural,0,13
+Sam,Supernatural,1,9
+Sam,Supernatural,2,14
+Sam,Supernatural,3,12
+Ezekiel,Supernatural,-3,2
+Ezekiel,Supernatural,-2,3
+Ezekiel,Supernatural,-1,4
+Ezekiel,Supernatural,0,4
+Ezekiel,Supernatural,1,4
+Ezekiel,Supernatural,2,8
+Ezekiel,Supernatural,3,9
+Jonas,The Unit,-3,18
+Jonas,The Unit,-2,14
+Jonas,The Unit,-1,22
+Jonas,The Unit,0,18
+Jonas,The Unit,1,29
+Jonas,The Unit,2,27
+Jonas,The Unit,3,27
+Molly,The Unit,-3,20
+Molly,The Unit,-2,12
+Molly,The Unit,-1,33
+Molly,The Unit,0,33
+Molly,The Unit,1,34
+Molly,The Unit,2,29
+Molly,The Unit,3,39
+Charlie,It's Always Sunny in Philadelphia,-3,10
+Charlie,It's Always Sunny in Philadelphia,-2,15
+Charlie,It's Always Sunny in Philadelphia,-1,18
+Charlie,It's Always Sunny in Philadelphia,0,25
+Charlie,It's Always Sunny in Philadelphia,1,37
+Charlie,It's Always Sunny in Philadelphia,2,36
+Charlie,It's Always Sunny in Philadelphia,3,46
+Dennis,It's Always Sunny in Philadelphia,-3,8
+Dennis,It's Always Sunny in Philadelphia,-2,8
+Dennis,It's Always Sunny in Philadelphia,-1,6
+Dennis,It's Always Sunny in Philadelphia,0,9
+Dennis,It's Always Sunny in Philadelphia,1,6
+Dennis,It's Always Sunny in Philadelphia,2,7
+Dennis,It's Always Sunny in Philadelphia,3,5
+Christina,Westworld,-3,21
+Christina,Westworld,-2,16
+Christina,Westworld,-1,19
+Christina,Westworld,0,8
+Christina,Westworld,1,17
+Christina,Westworld,2,8
+Christina,Westworld,3,9
+Christina,Moral Orel,-3,24
+Christina,Moral Orel,-2,31
+Christina,Moral Orel,-1,33
+Christina,Moral Orel,0,22
+Christina,Moral Orel,1,14
+Christina,Moral Orel,2,25
+Christina,Moral Orel,3,11
+Sam,Life on Mars,-3,15
+Sam,Life on Mars,-2,18
+Sam,Life on Mars,-1,13
+Sam,Life on Mars,0,9
+Sam,Life on Mars,1,14
+Sam,Life on Mars,2,12
+Sam,Life on Mars,3,27
+Annie,Life on Mars,-3,11
+Annie,Life on Mars,-2,10
+Annie,Life on Mars,-1,7
+Annie,Life on Mars,0,7
+Annie,Life on Mars,1,14
+Annie,Life on Mars,2,16
+Annie,Life on Mars,3,13
+Matt,Studio 60 on the Sunset Strip,-3,5
+Matt,Studio 60 on the Sunset Strip,-2,6
+Matt,Studio 60 on the Sunset Strip,-1,4
+Matt,Studio 60 on the Sunset Strip,0,5
+Matt,Studio 60 on the Sunset Strip,1,5
+Matt,Studio 60 on the Sunset Strip,2,4
+Matt,Studio 60 on the Sunset Strip,3,6
+Jordan,Studio 60 on the Sunset Strip,-3,210
+Jordan,Studio 60 on the Sunset Strip,-2,193
+Jordan,Studio 60 on the Sunset Strip,-1,133
+Jordan,Studio 60 on the Sunset Strip,0,122
+Jordan,Studio 60 on the Sunset Strip,1,121
+Jordan,Studio 60 on the Sunset Strip,2,127
+Jordan,Studio 60 on the Sunset Strip,3,118
+Danny,Studio 60 on the Sunset Strip,-3,9
+Danny,Studio 60 on the Sunset Strip,-2,6
+Danny,Studio 60 on the Sunset Strip,-1,11
+Danny,Studio 60 on the Sunset Strip,0,8
+Danny,Studio 60 on the Sunset Strip,1,9
+Danny,Studio 60 on the Sunset Strip,2,7
+Danny,Studio 60 on the Sunset Strip,3,13
+Shawn,Psych,-3,24
+Shawn,Psych,-2,19
+Shawn,Psych,-1,19
+Shawn,Psych,0,15
+Shawn,Psych,1,21
+Shawn,Psych,2,15
+Shawn,Psych,3,21
+Eric,Friday Night Lights,-3,89
+Eric,Friday Night Lights,-2,108
+Eric,Friday Night Lights,-1,77
+Eric,Friday Night Lights,0,65
+Eric,Friday Night Lights,1,93
+Eric,Friday Night Lights,2,70
+Eric,Friday Night Lights,3,68
+Matt,Friday Night Lights,-3,5
+Matt,Friday Night Lights,-2,6
+Matt,Friday Night Lights,-1,4
+Matt,Friday Night Lights,0,5
+Matt,Friday Night Lights,1,5
+Matt,Friday Night Lights,2,4
+Matt,Friday Night Lights,3,6
+Henry,The Tudors,-3,14
+Henry,The Tudors,-2,20
+Henry,The Tudors,-1,31
+Henry,The Tudors,0,40
+Henry,The Tudors,1,44
+Henry,The Tudors,2,43
+Henry,The Tudors,3,53
+Charles,The Tudors,-3,27
+Charles,The Tudors,-2,37
+Charles,The Tudors,-1,33
+Charles,The Tudors,0,35
+Charles,The Tudors,1,36
+Charles,The Tudors,2,41
+Charles,The Tudors,3,50
+Logan,Wolverine and the X-Men,-3,233
+Logan,Wolverine and the X-Men,-2,243
+Logan,Wolverine and the X-Men,-1,244
+Logan,Wolverine and the X-Men,0,227
+Logan,Wolverine and the X-Men,1,260
+Logan,Wolverine and the X-Men,2,250
+Logan,Wolverine and the X-Men,3,204
+Dexter,Dexter,-3,5
+Dexter,Dexter,-2,3
+Dexter,Dexter,-1,6
+Dexter,Dexter,0,7
+Dexter,Dexter,1,17
+Dexter,Dexter,2,16
+Dexter,Dexter,3,31
+Angel,Dexter,-3,17
+Angel,Dexter,-2,18
+Angel,Dexter,-1,32
+Angel,Dexter,0,23
+Angel,Dexter,1,23
+Angel,Dexter,2,21
+Angel,Dexter,3,22
+Brett,Day Break,-3,52
+Brett,Day Break,-2,45
+Brett,Day Break,-1,34
+Brett,Day Break,0,34
+Brett,Day Break,1,28
+Brett,Day Break,2,19
+Brett,Day Break,3,20
+Andrea,Day Break,-3,25
+Andrea,Day Break,-2,25
+Andrea,Day Break,-1,15
+Andrea,Day Break,0,22
+Andrea,Day Break,1,31
+Andrea,Day Break,2,25
+Andrea,Day Break,3,24
+Tommy,The Black Donnellys,-3,7
+Tommy,The Black Donnellys,-2,8
+Tommy,The Black Donnellys,-1,4
+Tommy,The Black Donnellys,0,6
+Tommy,The Black Donnellys,1,7
+Tommy,The Black Donnellys,2,5
+Tommy,The Black Donnellys,3,7
+Jimmy,The Black Donnellys,-3,7
+Jimmy,The Black Donnellys,-2,10
+Jimmy,The Black Donnellys,-1,7
+Jimmy,The Black Donnellys,0,4
+Jimmy,The Black Donnellys,1,6
+Jimmy,The Black Donnellys,2,6
+Jimmy,The Black Donnellys,3,5
+Jenny,The Black Donnellys,-3,10
+Jenny,The Black Donnellys,-2,11
+Jenny,The Black Donnellys,-1,6
+Jenny,The Black Donnellys,0,6
+Jenny,The Black Donnellys,1,6
+Jenny,The Black Donnellys,2,3
+Jenny,The Black Donnellys,3,7
+Michael,Burn Notice,-3,128
+Michael,Burn Notice,-2,133
+Michael,Burn Notice,-1,111
+Michael,Burn Notice,0,113
+Michael,Burn Notice,1,105
+Michael,Burn Notice,2,94
+Michael,Burn Notice,3,108
+Fiona,Burn Notice,-3,9
+Fiona,Burn Notice,-2,19
+Fiona,Burn Notice,-1,12
+Fiona,Burn Notice,0,10
+Fiona,Burn Notice,1,24
+Fiona,Burn Notice,2,31
+Fiona,Burn Notice,3,17
+Sam,Burn Notice,-3,18
+Sam,Burn Notice,-2,13
+Sam,Burn Notice,-1,9
+Sam,Burn Notice,0,14
+Sam,Burn Notice,1,12
+Sam,Burn Notice,2,27
+Sam,Burn Notice,3,29
+Paul,In Treatment,-3,29
+Paul,In Treatment,-2,31
+Paul,In Treatment,-1,26
+Paul,In Treatment,0,24
+Paul,In Treatment,1,22
+Paul,In Treatment,2,18
+Paul,In Treatment,3,18
+Brooke,In Treatment,-3,102
+Brooke,In Treatment,-2,114
+Brooke,In Treatment,-1,139
+Brooke,In Treatment,0,141
+Brooke,In Treatment,1,111
+Brooke,In Treatment,2,84
+Brooke,In Treatment,3,72
+Elizabeth,Skins,-3,88
+Elizabeth,Skins,-2,87
+Elizabeth,Skins,-1,116
+Elizabeth,Skins,0,114
+Elizabeth,Skins,1,115
+Elizabeth,Skins,2,109
+Elizabeth,Skins,3,117
+Tony,Skins,-3,5
+Tony,Skins,-2,9
+Tony,Skins,-1,14
+Tony,Skins,0,14
+Tony,Skins,1,8
+Tony,Skins,2,11
+Tony,Skins,3,9
+Xander,Frisky Dingo,-3,30
+Xander,Frisky Dingo,-2,23
+Xander,Frisky Dingo,-1,36
+Xander,Frisky Dingo,0,23
+Xander,Frisky Dingo,1,33
+Xander,Frisky Dingo,2,32
+Xander,Frisky Dingo,3,48
+April,Eastbound & Down,-3,7
+April,Eastbound & Down,-2,10
+April,Eastbound & Down,-1,15
+April,Eastbound & Down,0,13
+April,Eastbound & Down,1,7
+April,Eastbound & Down,2,9
+April,Eastbound & Down,3,8
+Robert,Inspector Lewis,-3,66
+Robert,Inspector Lewis,-2,63
+Robert,Inspector Lewis,-1,58
+Robert,Inspector Lewis,0,46
+Robert,Inspector Lewis,1,55
+Robert,Inspector Lewis,2,41
+Robert,Inspector Lewis,3,44
+James,Inspector Lewis,-3,125
+James,Inspector Lewis,-2,139
+James,Inspector Lewis,-1,126
+James,Inspector Lewis,0,124
+James,Inspector Lewis,1,143
+James,Inspector Lewis,2,144
+James,Inspector Lewis,3,133
+Charlie,Life,-3,18
+Charlie,Life,-2,25
+Charlie,Life,-1,37
+Charlie,Life,0,36
+Charlie,Life,1,46
+Charlie,Life,2,46
+Charlie,Life,3,57
+Dani,Life,-3,2
+Dani,Life,-2,5
+Dani,Life,-1,6
+Dani,Life,0,10
+Dani,Life,1,10
+Dani,Life,2,6
+Dani,Life,3,8
+Sheldon,The Big Bang Theory,-3,14
+Sheldon,The Big Bang Theory,-2,7
+Sheldon,The Big Bang Theory,-1,13
+Sheldon,The Big Bang Theory,0,8
+Sheldon,The Big Bang Theory,1,11
+Sheldon,The Big Bang Theory,2,15
+Sheldon,The Big Bang Theory,3,14
+Walter,Breaking Bad,-3,1
+Walter,Breaking Bad,-2,8
+Walter,Breaking Bad,-1,4
+Walter,Breaking Bad,0,3
+Walter,Breaking Bad,1,7
+Walter,Breaking Bad,2,5
+Walter,Breaking Bad,3,4
+Jesse,Breaking Bad,-3,93
+Jesse,Breaking Bad,-2,75
+Jesse,Breaking Bad,-1,83
+Jesse,Breaking Bad,0,78
+Jesse,Breaking Bad,1,81
+Jesse,Breaking Bad,2,75
+Jesse,Breaking Bad,3,60
+Skyler,Breaking Bad,-3,20
+Skyler,Breaking Bad,-2,20
+Skyler,Breaking Bad,-1,23
+Skyler,Breaking Bad,0,24
+Skyler,Breaking Bad,1,17
+Skyler,Breaking Bad,2,33
+Skyler,Breaking Bad,3,14
+Karen,Californication,-3,14
+Karen,Californication,-2,17
+Karen,Californication,-1,15
+Karen,Californication,0,8
+Karen,Californication,1,7
+Karen,Californication,2,10
+Karen,Californication,3,7
+Charlie,Californication,-3,18
+Charlie,Californication,-2,25
+Charlie,Californication,-1,37
+Charlie,Californication,0,36
+Charlie,Californication,1,46
+Charlie,Californication,2,46
+Charlie,Californication,3,57
+Ellen,Damages,-3,9
+Ellen,Damages,-2,4
+Ellen,Damages,-1,6
+Ellen,Damages,0,7
+Ellen,Damages,1,2
+Ellen,Damages,2,3
+Ellen,Damages,3,5
+Charlotte,Pushing Daisies,-3,28
+Charlotte,Pushing Daisies,-2,30
+Charlotte,Pushing Daisies,-1,33
+Charlotte,Pushing Daisies,0,32
+Charlotte,Pushing Daisies,1,59
+Charlotte,Pushing Daisies,2,62
+Charlotte,Pushing Daisies,3,85
+Emerson,Pushing Daisies,-3,10
+Emerson,Pushing Daisies,-2,19
+Emerson,Pushing Daisies,-1,33
+Emerson,Pushing Daisies,0,42
+Emerson,Pushing Daisies,1,47
+Emerson,Pushing Daisies,2,39
+Emerson,Pushing Daisies,3,29
+Sarah,Chuck,-3,202
+Sarah,Chuck,-2,173
+Sarah,Chuck,-1,194
+Sarah,Chuck,0,203
+Sarah,Chuck,1,188
+Sarah,Chuck,2,157
+Sarah,Chuck,3,120
+Morgan,Chuck,-3,117
+Morgan,Chuck,-2,100
+Morgan,Chuck,-1,94
+Morgan,Chuck,0,75
+Morgan,Chuck,1,76
+Morgan,Chuck,2,84
+Morgan,Chuck,3,81
+Simon,Gurren Lagann,-3,32
+Simon,Gurren Lagann,-2,31
+Simon,Gurren Lagann,-1,35
+Simon,Gurren Lagann,0,28
+Simon,Gurren Lagann,1,48
+Simon,Gurren Lagann,2,33
+Simon,Gurren Lagann,3,36
+Katie,Journeyman,-3,34
+Katie,Journeyman,-2,49
+Katie,Journeyman,-1,57
+Katie,Journeyman,0,50
+Katie,Journeyman,1,57
+Katie,Journeyman,2,45
+Katie,Journeyman,3,37
+Livia,Journeyman,-3,4
+Livia,Journeyman,-2,8
+Livia,Journeyman,-1,4
+Livia,Journeyman,0,8
+Livia,Journeyman,1,9
+Livia,Journeyman,2,11
+Livia,Journeyman,3,12
+Peter,The Spectacular Spider-Man,-3,35
+Peter,The Spectacular Spider-Man,-2,47
+Peter,The Spectacular Spider-Man,-1,42
+Peter,The Spectacular Spider-Man,0,39
+Peter,The Spectacular Spider-Man,1,38
+Peter,The Spectacular Spider-Man,2,41
+Peter,The Spectacular Spider-Man,3,32
+Gwen,The Spectacular Spider-Man,-3,5
+Gwen,The Spectacular Spider-Man,-2,2
+Gwen,The Spectacular Spider-Man,-1,3
+Gwen,The Spectacular Spider-Man,0,4
+Gwen,The Spectacular Spider-Man,1,2
+Gwen,The Spectacular Spider-Man,2,12
+Gwen,The Spectacular Spider-Man,3,4
+Margaret,Boardwalk Empire,-3,17
+Margaret,Boardwalk Empire,-2,10
+Margaret,Boardwalk Empire,-1,13
+Margaret,Boardwalk Empire,0,13
+Margaret,Boardwalk Empire,1,14
+Margaret,Boardwalk Empire,2,16
+Margaret,Boardwalk Empire,3,21
+Shaun,Shaun the Sheep,-3,17
+Shaun,Shaun the Sheep,-2,10
+Shaun,Shaun the Sheep,-1,9
+Shaun,Shaun the Sheep,0,9
+Shaun,Shaun the Sheep,1,3
+Shaun,Shaun the Sheep,2,8
+Shaun,Shaun the Sheep,3,9
+Claire,Claymore,-3,40
+Claire,Claymore,-2,50
+Claire,Claymore,-1,74
+Claire,Claymore,0,101
+Claire,Claymore,1,91
+Claire,Claymore,2,95
+Claire,Claymore,3,102
+Clare,Claymore,-3,6
+Clare,Claymore,-2,3
+Clare,Claymore,-1,9
+Clare,Claymore,0,8
+Clare,Claymore,1,8
+Clare,Claymore,2,9
+Clare,Claymore,3,3
+Tara,United States of Tara,-3,8
+Tara,United States of Tara,-2,14
+Tara,United States of Tara,-1,9
+Tara,United States of Tara,0,9
+Tara,United States of Tara,1,10
+Tara,United States of Tara,2,6
+Tara,United States of Tara,3,7
+Max,United States of Tara,-3,33
+Max,United States of Tara,-2,44
+Max,United States of Tara,-1,51
+Max,United States of Tara,0,65
+Max,United States of Tara,1,64
+Max,United States of Tara,2,62
+Max,United States of Tara,3,67
+Danny,I Think You Should Leave with Tim Robinson,-3,14
+Danny,I Think You Should Leave with Tim Robinson,-2,3
+Danny,I Think You Should Leave with Tim Robinson,-1,5
+Danny,I Think You Should Leave with Tim Robinson,0,5
+Danny,I Think You Should Leave with Tim Robinson,1,12
+Danny,I Think You Should Leave with Tim Robinson,2,9
+Danny,I Think You Should Leave with Tim Robinson,3,0
+Alex,Ashes to Ashes,-3,31
+Alex,Ashes to Ashes,-2,55
+Alex,Ashes to Ashes,-1,54
+Alex,Ashes to Ashes,0,46
+Alex,Ashes to Ashes,1,59
+Alex,Ashes to Ashes,2,52
+Alex,Ashes to Ashes,3,54
+Victor,"Love, Victor",-3,19
+Victor,"Love, Victor",-2,18
+Victor,"Love, Victor",-1,22
+Victor,"Love, Victor",0,12
+Victor,"Love, Victor",1,8
+Victor,"Love, Victor",2,10
+Victor,"Love, Victor",3,15
+Mia,"Love, Victor",-3,111
+Mia,"Love, Victor",-2,94
+Mia,"Love, Victor",-1,113
+Mia,"Love, Victor",0,93
+Mia,"Love, Victor",1,100
+Mia,"Love, Victor",2,83
+Mia,"Love, Victor",3,85
+Felix,"Love, Victor",-3,67
+Felix,"Love, Victor",-2,45
+Felix,"Love, Victor",-1,67
+Felix,"Love, Victor",0,55
+Felix,"Love, Victor",1,67
+Felix,"Love, Victor",2,49
+Felix,"Love, Victor",3,56
+Julie,Julie and the Phantoms,-3,16
+Julie,Julie and the Phantoms,-2,10
+Julie,Julie and the Phantoms,-1,11
+Julie,Julie and the Phantoms,0,8
+Julie,Julie and the Phantoms,1,5
+Julie,Julie and the Phantoms,2,9
+Julie,Julie and the Phantoms,3,6
+Luke,Julie and the Phantoms,-3,124
+Luke,Julie and the Phantoms,-2,112
+Luke,Julie and the Phantoms,-1,102
+Luke,Julie and the Phantoms,0,92
+Luke,Julie and the Phantoms,1,99
+Luke,Julie and the Phantoms,2,98
+Luke,Julie and the Phantoms,3,88
+Alex,Julie and the Phantoms,-3,37
+Alex,Julie and the Phantoms,-2,37
+Alex,Julie and the Phantoms,-1,35
+Alex,Julie and the Phantoms,0,34
+Alex,Julie and the Phantoms,1,22
+Alex,Julie and the Phantoms,2,22
+Alex,Julie and the Phantoms,3,20
+Fox,Vinland Saga,-3,7
+Fox,Vinland Saga,-2,9
+Fox,Vinland Saga,-1,6
+Fox,Vinland Saga,0,7
+Fox,Vinland Saga,1,5
+Fox,Vinland Saga,2,3
+Fox,Vinland Saga,3,6
+Zoey,Zoey's Extraordinary Playlist,-3,90
+Zoey,Zoey's Extraordinary Playlist,-2,84
+Zoey,Zoey's Extraordinary Playlist,-1,76
+Zoey,Zoey's Extraordinary Playlist,0,86
+Zoey,Zoey's Extraordinary Playlist,1,80
+Zoey,Zoey's Extraordinary Playlist,2,85
+Zoey,Zoey's Extraordinary Playlist,3,57
+Max,Zoey's Extraordinary Playlist,-3,60
+Max,Zoey's Extraordinary Playlist,-2,54
+Max,Zoey's Extraordinary Playlist,-1,57
+Max,Zoey's Extraordinary Playlist,0,43
+Max,Zoey's Extraordinary Playlist,1,50
+Max,Zoey's Extraordinary Playlist,2,43
+Max,Zoey's Extraordinary Playlist,3,38
+James,All Creatures Great and Small,-3,157
+James,All Creatures Great and Small,-2,159
+James,All Creatures Great and Small,-1,150
+James,All Creatures Great and Small,0,130
+James,All Creatures Great and Small,1,134
+James,All Creatures Great and Small,2,142
+James,All Creatures Great and Small,3,138
+Teresa,Queen of the South,-3,10
+Teresa,Queen of the South,-2,3
+Teresa,Queen of the South,-1,5
+Teresa,Queen of the South,0,6
+Teresa,Queen of the South,1,6
+Teresa,Queen of the South,2,1
+Teresa,Queen of the South,3,4
+James,Queen of the South,-3,157
+James,Queen of the South,-2,156
+James,Queen of the South,-1,187
+James,Queen of the South,0,175
+James,Queen of the South,1,157
+James,Queen of the South,2,159
+James,Queen of the South,3,150
+Henry,Party Down,-3,31
+Henry,Party Down,-2,40
+Henry,Party Down,-1,44
+Henry,Party Down,0,43
+Henry,Party Down,1,53
+Henry,Party Down,2,91
+Henry,Party Down,3,93
+Kyle,Party Down,-3,69
+Kyle,Party Down,-2,56
+Kyle,Party Down,-1,69
+Kyle,Party Down,0,57
+Kyle,Party Down,1,52
+Kyle,Party Down,2,54
+Kyle,Party Down,3,53
+Laura,Lark Rise to Candleford,-3,27
+Laura,Lark Rise to Candleford,-2,24
+Laura,Lark Rise to Candleford,-1,27
+Laura,Lark Rise to Candleford,0,20
+Laura,Lark Rise to Candleford,1,15
+Laura,Lark Rise to Candleford,2,28
+Laura,Lark Rise to Candleford,3,24
+Ben,Outnumbered,-3,17
+Ben,Outnumbered,-2,17
+Ben,Outnumbered,-1,17
+Ben,Outnumbered,0,14
+Ben,Outnumbered,1,16
+Ben,Outnumbered,2,18
+Ben,Outnumbered,3,20
+Karen,Outnumbered,-3,14
+Karen,Outnumbered,-2,17
+Karen,Outnumbered,-1,15
+Karen,Outnumbered,0,8
+Karen,Outnumbered,1,7
+Karen,Outnumbered,2,10
+Karen,Outnumbered,3,7
+William,Murdoch Mysteries,-3,161
+William,Murdoch Mysteries,-2,179
+William,Murdoch Mysteries,-1,185
+William,Murdoch Mysteries,0,180
+William,Murdoch Mysteries,1,200
+William,Murdoch Mysteries,2,184
+William,Murdoch Mysteries,3,203
+Thomas,Murdoch Mysteries,-3,115
+Thomas,Murdoch Mysteries,-2,95
+Thomas,Murdoch Mysteries,-1,120
+Thomas,Murdoch Mysteries,0,94
+Thomas,Murdoch Mysteries,1,107
+Thomas,Murdoch Mysteries,2,77
+Thomas,Murdoch Mysteries,3,88
+Amy,Heartland,-3,59
+Amy,Heartland,-2,69
+Amy,Heartland,-1,55
+Amy,Heartland,0,55
+Amy,Heartland,1,50
+Amy,Heartland,2,42
+Amy,Heartland,3,41
+Samantha,Heartland,-3,97
+Samantha,Heartland,-2,125
+Samantha,Heartland,-1,130
+Samantha,Heartland,0,122
+Samantha,Heartland,1,112
+Samantha,Heartland,2,110
+Samantha,Heartland,3,84
+Jason,Trying,-3,43
+Jason,Trying,-2,34
+Jason,Trying,-1,38
+Jason,Trying,0,34
+Jason,Trying,1,27
+Jason,Trying,2,31
+Jason,Trying,3,24
+Rebecca,Ted Lasso,-3,36
+Rebecca,Ted Lasso,-2,34
+Rebecca,Ted Lasso,-1,27
+Rebecca,Ted Lasso,0,24
+Rebecca,Ted Lasso,1,17
+Rebecca,Ted Lasso,2,18
+Rebecca,Ted Lasso,3,8
+Jayce,Arcane,-3,20
+Jayce,Arcane,-2,20
+Jayce,Arcane,-1,26
+Jayce,Arcane,0,22
+Jayce,Arcane,1,18
+Jayce,Arcane,2,23
+Jayce,Arcane,3,13
+Olivia,Fringe,-3,174
+Olivia,Fringe,-2,155
+Olivia,Fringe,-1,202
+Olivia,Fringe,0,236
+Olivia,Fringe,1,248
+Olivia,Fringe,2,256
+Olivia,Fringe,3,290
+William,Fringe,-3,161
+William,Fringe,-2,179
+William,Fringe,-1,185
+William,Fringe,0,180
+William,Fringe,1,200
+William,Fringe,2,184
+William,Fringe,3,203
+Arabella,I May Destroy You,-3,21
+Arabella,I May Destroy You,-2,18
+Arabella,I May Destroy You,-1,22
+Arabella,I May Destroy You,0,21
+Arabella,I May Destroy You,1,10
+Arabella,I May Destroy You,2,13
+Arabella,I May Destroy You,3,21
+Jackson,Sons of Anarchy,-3,89
+Jackson,Sons of Anarchy,-2,105
+Jackson,Sons of Anarchy,-1,124
+Jackson,Sons of Anarchy,0,124
+Jackson,Sons of Anarchy,1,117
+Jackson,Sons of Anarchy,2,120
+Jackson,Sons of Anarchy,3,134
+Gemma,Sons of Anarchy,-3,6
+Gemma,Sons of Anarchy,-2,7
+Gemma,Sons of Anarchy,-1,10
+Gemma,Sons of Anarchy,0,15
+Gemma,Sons of Anarchy,1,12
+Gemma,Sons of Anarchy,2,16
+Gemma,Sons of Anarchy,3,13
+Robert,Sons of Anarchy,-3,58
+Robert,Sons of Anarchy,-2,46
+Robert,Sons of Anarchy,-1,55
+Robert,Sons of Anarchy,0,41
+Robert,Sons of Anarchy,1,44
+Robert,Sons of Anarchy,2,35
+Robert,Sons of Anarchy,3,49
+Silas,Kings,-3,15
+Silas,Kings,-2,14
+Silas,Kings,-1,15
+Silas,Kings,0,29
+Silas,Kings,1,27
+Silas,Kings,2,24
+Silas,Kings,3,33
+David,Kings,-3,107
+David,Kings,-2,117
+David,Kings,-1,106
+David,Kings,0,113
+David,Kings,1,99
+David,Kings,2,95
+David,Kings,3,116
+Rose,Kings,-3,14
+Rose,Kings,-2,11
+Rose,Kings,-1,8
+Rose,Kings,0,16
+Rose,Kings,1,14
+Rose,Kings,2,9
+Rose,Kings,3,25
+Fatima,Caliphate,-3,33
+Fatima,Caliphate,-2,18
+Fatima,Caliphate,-1,37
+Fatima,Caliphate,0,30
+Fatima,Caliphate,1,26
+Fatima,Caliphate,2,29
+Fatima,Caliphate,3,28
+Carl,The Midnight Gospel,-3,6
+Carl,The Midnight Gospel,-2,9
+Carl,The Midnight Gospel,-1,9
+Carl,The Midnight Gospel,0,6
+Carl,The Midnight Gospel,1,3
+Carl,The Midnight Gospel,2,4
+Carl,The Midnight Gospel,3,2
+Ian,Mayor of Kingstown,-3,24
+Ian,Mayor of Kingstown,-2,20
+Ian,Mayor of Kingstown,-1,31
+Ian,Mayor of Kingstown,0,24
+Ian,Mayor of Kingstown,1,24
+Ian,Mayor of Kingstown,2,18
+Ian,Mayor of Kingstown,3,38
+Lee,Hospital Playlist,-3,7
+Lee,Hospital Playlist,-2,2
+Lee,Hospital Playlist,-1,6
+Lee,Hospital Playlist,0,3
+Lee,Hospital Playlist,1,4
+Lee,Hospital Playlist,2,6
+Lee,Hospital Playlist,3,4
+Amy,Little Dorrit,-3,69
+Amy,Little Dorrit,-2,55
+Amy,Little Dorrit,-1,55
+Amy,Little Dorrit,0,50
+Amy,Little Dorrit,1,42
+Amy,Little Dorrit,2,41
+Amy,Little Dorrit,3,40
+Arthur,Little Dorrit,-3,5
+Arthur,Little Dorrit,-2,9
+Arthur,Little Dorrit,-1,9
+Arthur,Little Dorrit,0,7
+Arthur,Little Dorrit,1,10
+Arthur,Little Dorrit,2,5
+Arthur,Little Dorrit,3,10
+Deborah,Hacks,-3,5
+Deborah,Hacks,-2,8
+Deborah,Hacks,-1,7
+Deborah,Hacks,0,6
+Deborah,Hacks,1,9
+Deborah,Hacks,2,11
+Deborah,Hacks,3,7
+Ava,Hacks,-3,161
+Ava,Hacks,-2,161
+Ava,Hacks,-1,159
+Ava,Hacks,0,165
+Ava,Hacks,1,118
+Ava,Hacks,2,99
+Ava,Hacks,3,120
+Marcus,Hacks,-3,51
+Marcus,Hacks,-2,46
+Marcus,Hacks,-1,46
+Marcus,Hacks,0,45
+Marcus,Hacks,1,44
+Marcus,Hacks,2,43
+Marcus,Hacks,3,36
+Himmat,Special OPS,-3,0
+Himmat,Special OPS,-2,7
+Himmat,Special OPS,-1,6
+Himmat,Special OPS,0,4
+Himmat,Special OPS,1,9
+Himmat,Special OPS,2,5
+Himmat,Special OPS,3,13
+Patrick,The Mentalist,-3,25
+Patrick,The Mentalist,-2,46
+Patrick,The Mentalist,-1,28
+Patrick,The Mentalist,0,30
+Patrick,The Mentalist,1,26
+Patrick,The Mentalist,2,39
+Patrick,The Mentalist,3,21
+Teresa,The Mentalist,-3,9
+Teresa,The Mentalist,-2,7
+Teresa,The Mentalist,-1,1
+Teresa,The Mentalist,0,5
+Teresa,The Mentalist,1,5
+Teresa,The Mentalist,2,6
+Teresa,The Mentalist,3,6
+Alan,Smiling Friends,-3,9
+Alan,Smiling Friends,-2,5
+Alan,Smiling Friends,-1,12
+Alan,Smiling Friends,0,6
+Alan,Smiling Friends,1,4
+Alan,Smiling Friends,2,9
+Alan,Smiling Friends,3,8
+Richard,Castle,-3,22
+Richard,Castle,-2,16
+Richard,Castle,-1,29
+Richard,Castle,0,16
+Richard,Castle,1,18
+Richard,Castle,2,13
+Richard,Castle,3,26
+Joe,Castle,-3,9
+Joe,Castle,-2,0
+Joe,Castle,-1,6
+Joe,Castle,0,6
+Joe,Castle,1,2
+Joe,Castle,2,7
+Joe,Castle,3,3
+Kate,Castle,-3,66
+Kate,Castle,-2,67
+Kate,Castle,-1,68
+Kate,Castle,0,67
+Kate,Castle,1,44
+Kate,Castle,2,51
+Kate,Castle,3,52
+Sophie,Leverage: Redemption,-3,98
+Sophie,Leverage: Redemption,-2,74
+Sophie,Leverage: Redemption,-1,98
+Sophie,Leverage: Redemption,0,82
+Sophie,Leverage: Redemption,1,84
+Sophie,Leverage: Redemption,2,84
+Sophie,Leverage: Redemption,3,104
+Parker,Leverage: Redemption,-3,102
+Parker,Leverage: Redemption,-2,122
+Parker,Leverage: Redemption,-1,95
+Parker,Leverage: Redemption,0,106
+Parker,Leverage: Redemption,1,90
+Parker,Leverage: Redemption,2,72
+Parker,Leverage: Redemption,3,80
+Will,The Inbetweeners,-3,10
+Will,The Inbetweeners,-2,5
+Will,The Inbetweeners,-1,11
+Will,The Inbetweeners,0,14
+Will,The Inbetweeners,1,7
+Will,The Inbetweeners,2,11
+Will,The Inbetweeners,3,7
+Jay,The Inbetweeners,-3,6
+Jay,The Inbetweeners,-2,12
+Jay,The Inbetweeners,-1,7
+Jay,The Inbetweeners,0,3
+Jay,The Inbetweeners,1,11
+Jay,The Inbetweeners,2,9
+Jay,The Inbetweeners,3,11
+Neil,The Inbetweeners,-3,8
+Neil,The Inbetweeners,-2,8
+Neil,The Inbetweeners,-1,6
+Neil,The Inbetweeners,0,6
+Neil,The Inbetweeners,1,9
+Neil,The Inbetweeners,2,8
+Neil,The Inbetweeners,3,7
+Gillian,Lie to Me,-3,10
+Gillian,Lie to Me,-2,12
+Gillian,Lie to Me,-1,7
+Gillian,Lie to Me,0,11
+Gillian,Lie to Me,1,7
+Gillian,Lie to Me,2,7
+Gillian,Lie to Me,3,4
+Eli,Lie to Me,-3,15
+Eli,Lie to Me,-2,14
+Eli,Lie to Me,-1,38
+Eli,Lie to Me,0,32
+Eli,Lie to Me,1,55
+Eli,Lie to Me,2,68
+Eli,Lie to Me,3,74
+Veronica,Better Off Ted,-3,15
+Veronica,Better Off Ted,-2,19
+Veronica,Better Off Ted,-1,16
+Veronica,Better Off Ted,0,16
+Veronica,Better Off Ted,1,11
+Veronica,Better Off Ted,2,18
+Veronica,Better Off Ted,3,14
+Linda,Better Off Ted,-3,7
+Linda,Better Off Ted,-2,6
+Linda,Better Off Ted,-1,10
+Linda,Better Off Ted,0,7
+Linda,Better Off Ted,1,7
+Linda,Better Off Ted,2,7
+Linda,Better Off Ted,3,7
+David,Staged,-3,102
+David,Staged,-2,93
+David,Staged,-1,90
+David,Staged,0,84
+David,Staged,1,80
+David,Staged,2,69
+David,Staged,3,79
+William,Staged,-3,213
+William,Staged,-2,178
+William,Staged,-1,185
+William,Staged,0,179
+William,Staged,1,174
+William,Staged,2,150
+William,Staged,3,133
+Michael,Staged,-3,97
+Michael,Staged,-2,84
+Michael,Staged,-1,75
+Michael,Staged,0,75
+Michael,Staged,1,76
+Michael,Staged,2,61
+Michael,Staged,3,72
+Maggie,Paranormal,-3,24
+Maggie,Paranormal,-2,10
+Maggie,Paranormal,-1,9
+Maggie,Paranormal,0,15
+Maggie,Paranormal,1,7
+Maggie,Paranormal,2,11
+Maggie,Paranormal,3,14
+Carl,Down to Earth with Zac Efron,-3,6
+Carl,Down to Earth with Zac Efron,-2,9
+Carl,Down to Earth with Zac Efron,-1,9
+Carl,Down to Earth with Zac Efron,0,6
+Carl,Down to Earth with Zac Efron,1,3
+Carl,Down to Earth with Zac Efron,2,4
+Carl,Down to Earth with Zac Efron,3,2
+Jerry,Parks and Recreation,-3,6
+Jerry,Parks and Recreation,-2,5
+Jerry,Parks and Recreation,-1,13
+Jerry,Parks and Recreation,0,5
+Jerry,Parks and Recreation,1,6
+Jerry,Parks and Recreation,2,2
+Jerry,Parks and Recreation,3,6
+John,Southland,-3,77
+John,Southland,-2,70
+John,Southland,-1,86
+John,Southland,0,91
+John,Southland,1,81
+John,Southland,2,84
+John,Southland,3,75
+Jake,Adventure Time,-3,54
+Jake,Adventure Time,-2,61
+Jake,Adventure Time,-1,70
+Jake,Adventure Time,0,54
+Jake,Adventure Time,1,70
+Jake,Adventure Time,2,58
+Jake,Adventure Time,3,59
+Mark,Time,-3,20
+Mark,Time,-2,27
+Mark,Time,-1,27
+Mark,Time,0,16
+Mark,Time,1,24
+Mark,Time,2,28
+Mark,Time,3,40
+Lee,True Beauty,-3,7
+Lee,True Beauty,-2,2
+Lee,True Beauty,-1,6
+Lee,True Beauty,0,3
+Lee,True Beauty,1,4
+Lee,True Beauty,2,6
+Lee,True Beauty,3,4
+Alex,Blue Mountain State,-3,54
+Alex,Blue Mountain State,-2,46
+Alex,Blue Mountain State,-1,59
+Alex,Blue Mountain State,0,52
+Alex,Blue Mountain State,1,54
+Alex,Blue Mountain State,2,44
+Alex,Blue Mountain State,3,39
+Peter,White Collar,-3,47
+Peter,White Collar,-2,42
+Peter,White Collar,-1,39
+Peter,White Collar,0,38
+Peter,White Collar,1,41
+Peter,White Collar,2,32
+Peter,White Collar,3,37
+Bear,Reservation Dogs,-3,0
+Bear,Reservation Dogs,-2,5
+Bear,Reservation Dogs,-1,0
+Bear,Reservation Dogs,0,3
+Bear,Reservation Dogs,1,11
+Bear,Reservation Dogs,2,7
+Bear,Reservation Dogs,3,5
+Elora,Reservation Dogs,-3,8
+Elora,Reservation Dogs,-2,8
+Elora,Reservation Dogs,-1,14
+Elora,Reservation Dogs,0,15
+Elora,Reservation Dogs,1,10
+Elora,Reservation Dogs,2,28
+Elora,Reservation Dogs,3,38
+Jonathan,The Night Manager,-3,57
+Jonathan,The Night Manager,-2,73
+Jonathan,The Night Manager,-1,47
+Jonathan,The Night Manager,0,40
+Jonathan,The Night Manager,1,39
+Jonathan,The Night Manager,2,58
+Jonathan,The Night Manager,3,37
+Angela,The Night Manager,-3,12
+Angela,The Night Manager,-2,22
+Angela,The Night Manager,-1,24
+Angela,The Night Manager,0,20
+Angela,The Night Manager,1,16
+Angela,The Night Manager,2,8
+Angela,The Night Manager,3,14
+George,Horrible Histories,-3,23
+George,Horrible Histories,-2,24
+George,Horrible Histories,-1,30
+George,Horrible Histories,0,22
+George,Horrible Histories,1,35
+George,Horrible Histories,2,37
+George,Horrible Histories,3,36
+Adam,Parenthood,-3,120
+Adam,Parenthood,-2,121
+Adam,Parenthood,-1,136
+Adam,Parenthood,0,123
+Adam,Parenthood,1,129
+Adam,Parenthood,2,114
+Adam,Parenthood,3,104
+Sarah,Parenthood,-3,203
+Sarah,Parenthood,-2,188
+Sarah,Parenthood,-1,157
+Sarah,Parenthood,0,120
+Sarah,Parenthood,1,113
+Sarah,Parenthood,2,114
+Sarah,Parenthood,3,88
+Gregory,Abbott Elementary,-3,3
+Gregory,Abbott Elementary,-2,9
+Gregory,Abbott Elementary,-1,4
+Gregory,Abbott Elementary,0,5
+Gregory,Abbott Elementary,1,3
+Gregory,Abbott Elementary,2,5
+Gregory,Abbott Elementary,3,4
+Ava,Abbott Elementary,-3,161
+Ava,Abbott Elementary,-2,161
+Ava,Abbott Elementary,-1,159
+Ava,Abbott Elementary,0,165
+Ava,Abbott Elementary,1,118
+Ava,Abbott Elementary,2,99
+Ava,Abbott Elementary,3,120
+George,Inspector George Gently,-3,16
+George,Inspector George Gently,-2,16
+George,Inspector George Gently,-1,23
+George,Inspector George Gently,0,24
+George,Inspector George Gently,1,30
+George,Inspector George Gently,2,22
+George,Inspector George Gently,3,35
+John,Inspector George Gently,-3,75
+John,Inspector George Gently,-2,73
+John,Inspector George Gently,-1,77
+John,Inspector George Gently,0,70
+John,Inspector George Gently,1,86
+John,Inspector George Gently,2,91
+John,Inspector George Gently,3,81
+Jay,Modern Family,-3,12
+Jay,Modern Family,-2,7
+Jay,Modern Family,-1,3
+Jay,Modern Family,0,11
+Jay,Modern Family,1,9
+Jay,Modern Family,2,11
+Jay,Modern Family,3,4
+Gloria,Modern Family,-3,2
+Gloria,Modern Family,-2,6
+Gloria,Modern Family,-1,9
+Gloria,Modern Family,0,3
+Gloria,Modern Family,1,5
+Gloria,Modern Family,2,3
+Gloria,Modern Family,3,7
+Claire,Modern Family,-3,74
+Claire,Modern Family,-2,101
+Claire,Modern Family,-1,91
+Claire,Modern Family,0,95
+Claire,Modern Family,1,102
+Claire,Modern Family,2,90
+Claire,Modern Family,3,105
+Alicia,The Good Wife,-3,26
+Alicia,The Good Wife,-2,18
+Alicia,The Good Wife,-1,24
+Alicia,The Good Wife,0,17
+Alicia,The Good Wife,1,16
+Alicia,The Good Wife,2,15
+Alicia,The Good Wife,3,11
+Peter,The Good Wife,-3,47
+Peter,The Good Wife,-2,42
+Peter,The Good Wife,-1,39
+Peter,The Good Wife,0,38
+Peter,The Good Wife,1,41
+Peter,The Good Wife,2,32
+Peter,The Good Wife,3,37
+Will,The Good Wife,-3,5
+Will,The Good Wife,-2,11
+Will,The Good Wife,-1,14
+Will,The Good Wife,0,7
+Will,The Good Wife,1,11
+Will,The Good Wife,2,7
+Will,The Good Wife,3,9
+Simon,Young Royals,-3,30
+Simon,Young Royals,-2,42
+Simon,Young Royals,-1,27
+Simon,Young Royals,0,32
+Simon,Young Royals,1,41
+Simon,Young Royals,2,33
+Simon,Young Royals,3,35
+August,Young Royals,-3,20
+August,Young Royals,-2,17
+August,Young Royals,-1,22
+August,Young Royals,0,41
+August,Young Royals,1,47
+August,Young Royals,2,39
+August,Young Royals,3,52
+John,Luther,-3,70
+John,Luther,-2,86
+John,Luther,-1,91
+John,Luther,0,81
+John,Luther,1,84
+John,Luther,2,75
+John,Luther,3,69
+Martin,Luther,-3,11
+Martin,Luther,-2,21
+Martin,Luther,-1,14
+Martin,Luther,0,11
+Martin,Luther,1,11
+Martin,Luther,2,20
+Martin,Luther,3,22
+John,Sherlock,-3,70
+John,Sherlock,-2,86
+John,Sherlock,-1,91
+John,Sherlock,0,81
+John,Sherlock,1,84
+John,Sherlock,2,75
+John,Sherlock,3,69
+Hudson,Sherlock,-3,69
+Hudson,Sherlock,-2,101
+Hudson,Sherlock,-1,101
+Hudson,Sherlock,0,97
+Hudson,Sherlock,1,103
+Hudson,Sherlock,2,130
+Hudson,Sherlock,3,152
+Josephine,River Monsters,-3,11
+Josephine,River Monsters,-2,16
+Josephine,River Monsters,-1,15
+Josephine,River Monsters,0,13
+Josephine,River Monsters,1,13
+Josephine,River Monsters,2,11
+Josephine,River Monsters,3,20
+Sterling,Archer,-3,7
+Sterling,Archer,-2,3
+Sterling,Archer,-1,6
+Sterling,Archer,0,7
+Sterling,Archer,1,6
+Sterling,Archer,2,8
+Sterling,Archer,3,6
+Ava,Justified,-3,247
+Ava,Justified,-2,239
+Ava,Justified,-1,238
+Ava,Justified,0,185
+Ava,Justified,1,201
+Ava,Justified,2,223
+Ava,Justified,3,197
+Michael,Strike Back,-3,113
+Michael,Strike Back,-2,105
+Michael,Strike Back,-1,94
+Michael,Strike Back,0,108
+Michael,Strike Back,1,110
+Michael,Strike Back,2,101
+Michael,Strike Back,3,101
+Damien,Strike Back,-3,21
+Damien,Strike Back,-2,26
+Damien,Strike Back,-1,25
+Damien,Strike Back,0,19
+Damien,Strike Back,1,31
+Damien,Strike Back,2,27
+Damien,Strike Back,3,16
+Lilly,Louie,-3,19
+Lilly,Louie,-2,26
+Lilly,Louie,-1,33
+Lilly,Louie,0,26
+Lilly,Louie,1,27
+Lilly,Louie,2,33
+Lilly,Louie,3,35
+Jane,Louie,-3,15
+Jane,Louie,-2,22
+Jane,Louie,-1,9
+Jane,Louie,0,16
+Jane,Louie,1,14
+Jane,Louie,2,16
+Jane,Louie,3,17
+Katie,Terriers,-3,50
+Katie,Terriers,-2,57
+Katie,Terriers,-1,45
+Katie,Terriers,0,37
+Katie,Terriers,1,29
+Katie,Terriers,2,31
+Katie,Terriers,3,30
+Paul,The Big C,-3,26
+Paul,The Big C,-2,24
+Paul,The Big C,-1,22
+Paul,The Big C,0,18
+Paul,The Big C,1,18
+Paul,The Big C,2,18
+Paul,The Big C,3,17
+Adam,The Big C,-3,120
+Adam,The Big C,-2,121
+Adam,The Big C,-1,136
+Adam,The Big C,0,123
+Adam,The Big C,1,129
+Adam,The Big C,2,114
+Adam,The Big C,3,104
+Nina,Offspring,-3,9
+Nina,Offspring,-2,17
+Nina,Offspring,-1,11
+Nina,Offspring,0,16
+Nina,Offspring,1,17
+Nina,Offspring,2,12
+Nina,Offspring,3,12
+Jimmy,Offspring,-3,4
+Jimmy,Offspring,-2,6
+Jimmy,Offspring,-1,6
+Jimmy,Offspring,0,5
+Jimmy,Offspring,1,4
+Jimmy,Offspring,2,3
+Jimmy,Offspring,3,6
+Miranda,Miranda,-3,11
+Miranda,Miranda,-2,12
+Miranda,Miranda,-1,11
+Miranda,Miranda,0,14
+Miranda,Miranda,1,15
+Miranda,Miranda,2,14
+Miranda,Miranda,3,11
+Penny,Miranda,-3,1
+Penny,Miranda,-2,1
+Penny,Miranda,-1,2
+Penny,Miranda,0,5
+Penny,Miranda,1,5
+Penny,Miranda,2,9
+Penny,Miranda,3,9
+Curtis,Misfits,-3,18
+Curtis,Misfits,-2,16
+Curtis,Misfits,-1,14
+Curtis,Misfits,0,18
+Curtis,Misfits,1,6
+Curtis,Misfits,2,7
+Curtis,Misfits,3,8
+Simon,Misfits,-3,35
+Simon,Misfits,-2,28
+Simon,Misfits,-1,48
+Simon,Misfits,0,33
+Simon,Misfits,1,36
+Simon,Misfits,2,40
+Simon,Misfits,3,37
+Jimmy,Bob's Burgers,-3,6
+Jimmy,Bob's Burgers,-2,6
+Jimmy,Bob's Burgers,-1,5
+Jimmy,Bob's Burgers,0,4
+Jimmy,Bob's Burgers,1,3
+Jimmy,Bob's Burgers,2,6
+Jimmy,Bob's Burgers,3,5
+Jack,The Good Guys,-3,181
+Jack,The Good Guys,-2,185
+Jack,The Good Guys,-1,144
+Jack,The Good Guys,0,159
+Jack,The Good Guys,1,171
+Jack,The Good Guys,2,146
+Jack,The Good Guys,3,178
+Ada,The Good Guys,-3,4
+Ada,The Good Guys,-2,14
+Ada,The Good Guys,-1,7
+Ada,The Good Guys,0,13
+Ada,The Good Guys,1,7
+Ada,The Good Guys,2,11
+Ada,The Good Guys,3,18
+Fiona,Shameless,-3,24
+Fiona,Shameless,-2,31
+Fiona,Shameless,-1,17
+Fiona,Shameless,0,15
+Fiona,Shameless,1,21
+Fiona,Shameless,2,23
+Fiona,Shameless,3,21
+Jerry,Shameless,-3,13
+Jerry,Shameless,-2,5
+Jerry,Shameless,-1,6
+Jerry,Shameless,0,2
+Jerry,Shameless,1,6
+Jerry,Shameless,2,4
+Jerry,Shameless,3,3
+David,Rake,-3,117
+David,Rake,-2,106
+David,Rake,-1,113
+David,Rake,0,99
+David,Rake,1,95
+David,Rake,2,116
+David,Rake,3,91
+Nicole,Rake,-3,41
+Nicole,Rake,-2,40
+Nicole,Rake,-1,31
+Nicole,Rake,0,34
+Nicole,Rake,1,26
+Nicole,Rake,2,26
+Nicole,Rake,3,36
+Robert,Downton Abbey,-3,55
+Robert,Downton Abbey,-2,41
+Robert,Downton Abbey,-1,44
+Robert,Downton Abbey,0,35
+Robert,Downton Abbey,1,49
+Robert,Downton Abbey,2,48
+Robert,Downton Abbey,3,60
+Cora,Downton Abbey,-3,15
+Cora,Downton Abbey,-2,14
+Cora,Downton Abbey,-1,20
+Cora,Downton Abbey,0,10
+Cora,Downton Abbey,1,15
+Cora,Downton Abbey,2,15
+Cora,Downton Abbey,3,9
+Blake,Workaholics,-3,83
+Blake,Workaholics,-2,74
+Blake,Workaholics,-1,87
+Blake,Workaholics,0,126
+Blake,Workaholics,1,123
+Blake,Workaholics,2,114
+Blake,Workaholics,3,136
+Adam,Workaholics,-3,121
+Adam,Workaholics,-2,136
+Adam,Workaholics,-1,123
+Adam,Workaholics,0,129
+Adam,Workaholics,1,114
+Adam,Workaholics,2,104
+Adam,Workaholics,3,141
+Jimmy,Raising Hope,-3,4
+Jimmy,Raising Hope,-2,6
+Jimmy,Raising Hope,-1,6
+Jimmy,Raising Hope,0,5
+Jimmy,Raising Hope,1,4
+Jimmy,Raising Hope,2,3
+Jimmy,Raising Hope,3,6
+Mark,Ugly Americans,-3,26
+Mark,Ugly Americans,-2,19
+Mark,Ugly Americans,-1,32
+Mark,Ugly Americans,0,23
+Mark,Ugly Americans,1,26
+Mark,Ugly Americans,2,20
+Mark,Ugly Americans,3,34
+Callie,Ugly Americans,-3,22
+Callie,Ugly Americans,-2,22
+Callie,Ugly Americans,-1,29
+Callie,Ugly Americans,0,35
+Callie,Ugly Americans,1,35
+Callie,Ugly Americans,2,38
+Callie,Ugly Americans,3,25
+Rachel,Suits,-3,77
+Rachel,Suits,-2,69
+Rachel,Suits,-1,57
+Rachel,Suits,0,50
+Rachel,Suits,1,63
+Rachel,Suits,2,48
+Rachel,Suits,3,43
+Sarah,The Killing,-3,188
+Sarah,The Killing,-2,157
+Sarah,The Killing,-1,120
+Sarah,The Killing,0,113
+Sarah,The Killing,1,114
+Sarah,The Killing,2,88
+Sarah,The Killing,3,92
+Stephen,The Killing,-3,15
+Stephen,The Killing,-2,12
+Stephen,The Killing,-1,13
+Stephen,The Killing,0,16
+Stephen,The Killing,1,10
+Stephen,The Killing,2,12
+Stephen,The Killing,3,14
+Darren,The Killing,-3,19
+Darren,The Killing,-2,9
+Darren,The Killing,-1,7
+Darren,The Killing,0,10
+Darren,The Killing,1,14
+Darren,The Killing,2,8
+Darren,The Killing,3,12
+Conner,Young Justice,-3,20
+Conner,Young Justice,-2,16
+Conner,Young Justice,-1,23
+Conner,Young Justice,0,31
+Conner,Young Justice,1,20
+Conner,Young Justice,2,21
+Conner,Young Justice,3,16
+Clark,Young Justice,-3,7
+Clark,Young Justice,-2,12
+Clark,Young Justice,-1,7
+Clark,Young Justice,0,14
+Clark,Young Justice,1,12
+Clark,Young Justice,2,19
+Clark,Young Justice,3,21
+Vera,Vera,-3,3
+Vera,Vera,-2,6
+Vera,Vera,-1,2
+Vera,Vera,0,4
+Vera,Vera,1,8
+Vera,Vera,2,14
+Vera,Vera,3,24
+Mark,Vera,-3,19
+Mark,Vera,-2,32
+Mark,Vera,-1,23
+Mark,Vera,0,26
+Mark,Vera,1,20
+Mark,Vera,2,34
+Mark,Vera,3,36
+Emma,The Trip,-3,241
+Emma,The Trip,-2,214
+Emma,The Trip,-1,241
+Emma,The Trip,0,261
+Emma,The Trip,1,250
+Emma,The Trip,2,299
+Emma,The Trip,3,273
+Cullen,Hell on Wheels,-3,1
+Cullen,Hell on Wheels,-2,3
+Cullen,Hell on Wheels,-1,7
+Cullen,Hell on Wheels,0,8
+Cullen,Hell on Wheels,1,5
+Cullen,Hell on Wheels,2,4
+Cullen,Hell on Wheels,3,6
+Thomas,Hell on Wheels,-3,94
+Thomas,Hell on Wheels,-2,107
+Thomas,Hell on Wheels,-1,77
+Thomas,Hell on Wheels,0,88
+Thomas,Hell on Wheels,1,92
+Thomas,Hell on Wheels,2,107
+Thomas,Hell on Wheels,3,115
+Eva,Hell on Wheels,-3,51
+Eva,Hell on Wheels,-2,77
+Eva,Hell on Wheels,-1,67
+Eva,Hell on Wheels,0,79
+Eva,Hell on Wheels,1,80
+Eva,Hell on Wheels,2,89
+Eva,Hell on Wheels,3,78
+Martha,Silk,-3,12
+Martha,Silk,-2,13
+Martha,Silk,-1,14
+Martha,Silk,0,13
+Martha,Silk,1,12
+Martha,Silk,2,12
+Martha,Silk,3,14
+Selina,Veep,-3,7
+Selina,Veep,-2,5
+Selina,Veep,-1,3
+Selina,Veep,0,6
+Selina,Veep,1,5
+Selina,Veep,2,10
+Selina,Veep,3,12
+Amy,Veep,-3,42
+Amy,Veep,-2,41
+Amy,Veep,-1,40
+Amy,Veep,0,34
+Amy,Veep,1,31
+Amy,Veep,2,41
+Amy,Veep,3,32
+Nicholas,Homeland,-3,121
+Nicholas,Homeland,-2,118
+Nicholas,Homeland,-1,89
+Nicholas,Homeland,0,88
+Nicholas,Homeland,1,86
+Nicholas,Homeland,2,95
+Nicholas,Homeland,3,63
+Beck,Tron: Uprising,-3,2
+Beck,Tron: Uprising,-2,8
+Beck,Tron: Uprising,-1,5
+Beck,Tron: Uprising,0,5
+Beck,Tron: Uprising,1,3
+Beck,Tron: Uprising,2,4
+Beck,Tron: Uprising,3,3
+Ismail,Leyla and Mecnun,-3,4
+Ismail,Leyla and Mecnun,-2,2
+Ismail,Leyla and Mecnun,-1,7
+Ismail,Leyla and Mecnun,0,5
+Ismail,Leyla and Mecnun,1,1
+Ismail,Leyla and Mecnun,2,8
+Ismail,Leyla and Mecnun,3,3
+Emma,Boss,-3,214
+Emma,Boss,-2,241
+Emma,Boss,-1,261
+Emma,Boss,0,250
+Emma,Boss,1,299
+Emma,Boss,2,273
+Emma,Boss,3,262
+Victoria,Longmire,-3,76
+Victoria,Longmire,-2,91
+Victoria,Longmire,-1,95
+Victoria,Longmire,0,87
+Victoria,Longmire,1,69
+Victoria,Longmire,2,87
+Victoria,Longmire,3,111
+Henry,Longmire,-3,43
+Henry,Longmire,-2,53
+Henry,Longmire,-1,91
+Henry,Longmire,0,93
+Henry,Longmire,1,97
+Henry,Longmire,2,109
+Henry,Longmire,3,120
+John,Person of Interest,-3,86
+John,Person of Interest,-2,91
+John,Person of Interest,-1,81
+John,Person of Interest,0,84
+John,Person of Interest,1,75
+John,Person of Interest,2,69
+John,Person of Interest,3,102
+Jocelyn,Person of Interest,-3,16
+Jocelyn,Person of Interest,-2,17
+Jocelyn,Person of Interest,-1,14
+Jocelyn,Person of Interest,0,16
+Jocelyn,Person of Interest,1,18
+Jocelyn,Person of Interest,2,24
+Jocelyn,Person of Interest,3,9
+Rachel,Scott & Bailey,-3,77
+Rachel,Scott & Bailey,-2,69
+Rachel,Scott & Bailey,-1,57
+Rachel,Scott & Bailey,0,50
+Rachel,Scott & Bailey,1,63
+Rachel,Scott & Bailey,2,48
+Rachel,Scott & Bailey,3,43
+Adam,Friday Night Dinner,-3,121
+Adam,Friday Night Dinner,-2,136
+Adam,Friday Night Dinner,-1,123
+Adam,Friday Night Dinner,0,129
+Adam,Friday Night Dinner,1,114
+Adam,Friday Night Dinner,2,104
+Adam,Friday Night Dinner,3,141
+Martin,Friday Night Dinner,-3,21
+Martin,Friday Night Dinner,-2,14
+Martin,Friday Night Dinner,-1,11
+Martin,Friday Night Dinner,0,11
+Martin,Friday Night Dinner,1,20
+Martin,Friday Night Dinner,2,22
+Martin,Friday Night Dinner,3,29
+Francis,House of Cards,-3,9
+Francis,House of Cards,-2,7
+Francis,House of Cards,-1,9
+Francis,House of Cards,0,16
+Francis,House of Cards,1,14
+Francis,House of Cards,2,15
+Francis,House of Cards,3,21
+Garrett,House of Cards,-3,13
+Garrett,House of Cards,-2,7
+Garrett,House of Cards,-1,13
+Garrett,House of Cards,0,10
+Garrett,House of Cards,1,13
+Garrett,House of Cards,2,12
+Garrett,House of Cards,3,8
+Claire,House of Cards,-3,102
+Claire,House of Cards,-2,90
+Claire,House of Cards,-1,105
+Claire,House of Cards,0,99
+Claire,House of Cards,1,107
+Claire,House of Cards,2,117
+Claire,House of Cards,3,101
+Will,The Newsroom,-3,7
+Will,The Newsroom,-2,11
+Will,The Newsroom,-1,7
+Will,The Newsroom,0,9
+Will,The Newsroom,1,9
+Will,The Newsroom,2,7
+Will,The Newsroom,3,7
+Mackenzie,The Newsroom,-3,76
+Mackenzie,The Newsroom,-2,76
+Mackenzie,The Newsroom,-1,70
+Mackenzie,The Newsroom,0,65
+Mackenzie,The Newsroom,1,74
+Mackenzie,The Newsroom,2,85
+Mackenzie,The Newsroom,3,88
+Martin,Undercover,-3,21
+Martin,Undercover,-2,14
+Martin,Undercover,-1,11
+Martin,Undercover,0,11
+Martin,Undercover,1,20
+Martin,Undercover,2,22
+Martin,Undercover,3,29
+Richard,The Amazing World of Gumball,-3,29
+Richard,The Amazing World of Gumball,-2,16
+Richard,The Amazing World of Gumball,-1,18
+Richard,The Amazing World of Gumball,0,13
+Richard,The Amazing World of Gumball,1,26
+Richard,The Amazing World of Gumball,2,17
+Richard,The Amazing World of Gumball,3,20
+John,Miss Fisher's Murder Mysteries,-3,91
+John,Miss Fisher's Murder Mysteries,-2,81
+John,Miss Fisher's Murder Mysteries,-1,84
+John,Miss Fisher's Murder Mysteries,0,75
+John,Miss Fisher's Murder Mysteries,1,69
+John,Miss Fisher's Murder Mysteries,2,102
+John,Miss Fisher's Murder Mysteries,3,105
+Lucas,Banshee,-3,224
+Lucas,Banshee,-2,224
+Lucas,Banshee,-1,213
+Lucas,Banshee,0,254
+Lucas,Banshee,1,214
+Lucas,Banshee,2,218
+Lucas,Banshee,3,247
+Anastasia,Banshee,-3,13
+Anastasia,Banshee,-2,13
+Anastasia,Banshee,-1,20
+Anastasia,Banshee,0,15
+Anastasia,Banshee,1,24
+Anastasia,Banshee,2,26
+Anastasia,Banshee,3,36
+Forrest,Review,-3,1
+Forrest,Review,-2,2
+Forrest,Review,-1,3
+Forrest,Review,0,5
+Forrest,Review,1,4
+Forrest,Review,2,10
+Forrest,Review,3,10
+Elizabeth,The Americans,-3,117
+Elizabeth,The Americans,-2,115
+Elizabeth,The Americans,-1,88
+Elizabeth,The Americans,0,112
+Elizabeth,The Americans,1,107
+Elizabeth,The Americans,2,139
+Elizabeth,The Americans,3,134
+Philip,The Americans,-3,7
+Philip,The Americans,-2,7
+Philip,The Americans,-1,15
+Philip,The Americans,0,23
+Philip,The Americans,1,8
+Philip,The Americans,2,11
+Philip,The Americans,3,11
+Henry,The Americans,-3,53
+Henry,The Americans,-2,91
+Henry,The Americans,-1,93
+Henry,The Americans,0,97
+Henry,The Americans,1,109
+Henry,The Americans,2,120
+Henry,The Americans,3,145
+Josh,Please Like Me,-3,9
+Josh,Please Like Me,-2,8
+Josh,Please Like Me,-1,11
+Josh,Please Like Me,0,8
+Josh,Please Like Me,1,8
+Josh,Please Like Me,2,8
+Josh,Please Like Me,3,8
+John,Please Like Me,-3,81
+John,Please Like Me,-2,84
+John,Please Like Me,-1,75
+John,Please Like Me,0,69
+John,Please Like Me,1,102
+John,Please Like Me,2,105
+John,Please Like Me,3,98
+Daniel,Rectify,-3,165
+Daniel,Rectify,-2,146
+Daniel,Rectify,-1,156
+Daniel,Rectify,0,141
+Daniel,Rectify,1,160
+Daniel,Rectify,2,151
+Daniel,Rectify,3,132
+Dylan,Bates Motel,-3,138
+Dylan,Bates Motel,-2,99
+Dylan,Bates Motel,-1,102
+Dylan,Bates Motel,0,93
+Dylan,Bates Motel,1,94
+Dylan,Bates Motel,2,85
+Dylan,Bates Motel,3,90
+Marco,Marco Polo,-3,6
+Marco,Marco Polo,-2,12
+Marco,Marco Polo,-1,15
+Marco,Marco Polo,0,11
+Marco,Marco Polo,1,14
+Marco,Marco Polo,2,11
+Marco,Marco Polo,3,9
+Celia,Last Tango in Halifax,-3,3
+Celia,Last Tango in Halifax,-2,6
+Celia,Last Tango in Halifax,-1,3
+Celia,Last Tango in Halifax,0,3
+Celia,Last Tango in Halifax,1,4
+Celia,Last Tango in Halifax,2,7
+Celia,Last Tango in Halifax,3,4
+Alan,Last Tango in Halifax,-3,4
+Alan,Last Tango in Halifax,-2,7
+Alan,Last Tango in Halifax,-1,8
+Alan,Last Tango in Halifax,0,9
+Alan,Last Tango in Halifax,1,9
+Alan,Last Tango in Halifax,2,7
+Alan,Last Tango in Halifax,3,6
+Caroline,Last Tango in Halifax,-3,6
+Caroline,Last Tango in Halifax,-2,8
+Caroline,Last Tango in Halifax,-1,10
+Caroline,Last Tango in Halifax,0,9
+Caroline,Last Tango in Halifax,1,11
+Caroline,Last Tango in Halifax,2,12
+Caroline,Last Tango in Halifax,3,17
+Sarah,Orphan Black,-3,120
+Sarah,Orphan Black,-2,113
+Sarah,Orphan Black,-1,114
+Sarah,Orphan Black,0,88
+Sarah,Orphan Black,1,92
+Sarah,Orphan Black,2,103
+Sarah,Orphan Black,3,102
+Alison,Orphan Black,-3,12
+Alison,Orphan Black,-2,9
+Alison,Orphan Black,-1,6
+Alison,Orphan Black,0,8
+Alison,Orphan Black,1,11
+Alison,Orphan Black,2,11
+Alison,Orphan Black,3,5
+Catherine,The Great,-3,14
+Catherine,The Great,-2,16
+Catherine,The Great,-1,17
+Catherine,The Great,0,9
+Catherine,The Great,1,9
+Catherine,The Great,2,5
+Catherine,The Great,3,3
+Will,Hannibal,-3,11
+Will,Hannibal,-2,7
+Will,Hannibal,-1,9
+Will,Hannibal,0,9
+Will,Hannibal,1,7
+Will,Hannibal,2,7
+Will,Hannibal,3,7
+Alana,Hannibal,-3,11
+Alana,Hannibal,-2,11
+Alana,Hannibal,-1,11
+Alana,Hannibal,0,12
+Alana,Hannibal,1,8
+Alana,Hannibal,2,8
+Alana,Hannibal,3,13
+Eric,The Eric Andre Show,-3,68
+Eric,The Eric Andre Show,-2,74
+Eric,The Eric Andre Show,-1,71
+Eric,The Eric Andre Show,0,47
+Eric,The Eric Andre Show,1,48
+Eric,The Eric Andre Show,2,42
+Eric,The Eric Andre Show,3,49
+Alec,Broadchurch,-3,9
+Alec,Broadchurch,-2,12
+Alec,Broadchurch,-1,10
+Alec,Broadchurch,0,10
+Alec,Broadchurch,1,10
+Alec,Broadchurch,2,8
+Alec,Broadchurch,3,10
+Ellie,Broadchurch,-3,29
+Ellie,Broadchurch,-2,37
+Ellie,Broadchurch,-1,44
+Ellie,Broadchurch,0,51
+Ellie,Broadchurch,1,85
+Ellie,Broadchurch,2,86
+Ellie,Broadchurch,3,117
+Sarah,A Place to Call Home,-3,120
+Sarah,A Place to Call Home,-2,113
+Sarah,A Place to Call Home,-1,114
+Sarah,A Place to Call Home,0,88
+Sarah,A Place to Call Home,1,92
+Sarah,A Place to Call Home,2,103
+Sarah,A Place to Call Home,3,102
+Kelly,Chicago Fire,-3,14
+Kelly,Chicago Fire,-2,13
+Kelly,Chicago Fire,-1,9
+Kelly,Chicago Fire,0,6
+Kelly,Chicago Fire,1,7
+Kelly,Chicago Fire,2,5
+Kelly,Chicago Fire,3,5
+Joe,Chicago Fire,-3,6
+Joe,Chicago Fire,-2,2
+Joe,Chicago Fire,-1,7
+Joe,Chicago Fire,0,3
+Joe,Chicago Fire,1,6
+Joe,Chicago Fire,2,6
+Joe,Chicago Fire,3,7
+Lena,The Fosters,-3,21
+Lena,The Fosters,-2,24
+Lena,The Fosters,-1,19
+Lena,The Fosters,0,19
+Lena,The Fosters,1,21
+Lena,The Fosters,2,28
+Lena,The Fosters,3,24
+Bilal,Game of Silence,-3,3
+Bilal,Game of Silence,-2,11
+Bilal,Game of Silence,-1,9
+Bilal,Game of Silence,0,6
+Bilal,Game of Silence,1,7
+Bilal,Game of Silence,2,10
+Bilal,Game of Silence,3,5
+Paul,The Fall,-3,18
+Paul,The Fall,-2,18
+Paul,The Fall,-1,18
+Paul,The Fall,0,17
+Paul,The Fall,1,22
+Paul,The Fall,2,28
+Paul,The Fall,3,21
+Nathan,Nathan for You,-3,166
+Nathan,Nathan for You,-2,184
+Nathan,Nathan for You,-1,193
+Nathan,Nathan for You,0,178
+Nathan,Nathan for You,1,168
+Nathan,Nathan for You,2,161
+Nathan,Nathan for You,3,154
+Kate,Line of Duty,-3,67
+Kate,Line of Duty,-2,44
+Kate,Line of Duty,-1,51
+Kate,Line of Duty,0,52
+Kate,Line of Duty,1,44
+Kate,Line of Duty,2,49
+Kate,Line of Duty,3,46
+Sean,Moone Boy,-3,37
+Sean,Moone Boy,-2,25
+Sean,Moone Boy,-1,27
+Sean,Moone Boy,0,32
+Sean,Moone Boy,1,22
+Sean,Moone Boy,2,10
+Sean,Moone Boy,3,30
+Martin,Moone Boy,-3,14
+Martin,Moone Boy,-2,11
+Martin,Moone Boy,-1,11
+Martin,Moone Boy,0,20
+Martin,Moone Boy,1,22
+Martin,Moone Boy,2,29
+Martin,Moone Boy,3,19
+Frank,True Detective,-3,7
+Frank,True Detective,-2,9
+Frank,True Detective,-1,11
+Frank,True Detective,0,10
+Frank,True Detective,1,12
+Frank,True Detective,2,13
+Frank,True Detective,3,19
+Piper,Orange Is the New Black,-3,25
+Piper,Orange Is the New Black,-2,52
+Piper,Orange Is the New Black,-1,41
+Piper,Orange Is the New Black,0,55
+Piper,Orange Is the New Black,1,78
+Piper,Orange Is the New Black,2,83
+Piper,Orange Is the New Black,3,66
+Tiffany,Orange Is the New Black,-3,13
+Tiffany,Orange Is the New Black,-2,13
+Tiffany,Orange Is the New Black,-1,9
+Tiffany,Orange Is the New Black,0,9
+Tiffany,Orange Is the New Black,1,14
+Tiffany,Orange Is the New Black,2,12
+Tiffany,Orange Is the New Black,3,11
+Max,Black Sails,-3,62
+Max,Black Sails,-2,67
+Max,Black Sails,-1,66
+Max,Black Sails,0,80
+Max,Black Sails,1,80
+Max,Black Sails,2,94
+Max,Black Sails,3,60
+Eleanor,Black Sails,-3,14
+Eleanor,Black Sails,-2,21
+Eleanor,Black Sails,-1,17
+Eleanor,Black Sails,0,39
+Eleanor,Black Sails,1,52
+Eleanor,Black Sails,2,52
+Eleanor,Black Sails,3,52
+Wilson,Utopia,-3,2
+Wilson,Utopia,-2,4
+Wilson,Utopia,-1,7
+Wilson,Utopia,0,5
+Wilson,Utopia,1,7
+Wilson,Utopia,2,5
+Wilson,Utopia,3,6
+Alison,Shetland,-3,12
+Alison,Shetland,-2,9
+Alison,Shetland,-1,6
+Alison,Shetland,0,8
+Alison,Shetland,1,11
+Alison,Shetland,2,11
+Alison,Shetland,3,5
+Chloe,My Mad Fat Diary,-3,186
+Chloe,My Mad Fat Diary,-2,196
+Chloe,My Mad Fat Diary,-1,156
+Chloe,My Mad Fat Diary,0,156
+Chloe,My Mad Fat Diary,1,143
+Chloe,My Mad Fat Diary,2,179
+Chloe,My Mad Fat Diary,3,166
+Steven,Toast of London,-3,27
+Steven,Toast of London,-2,20
+Steven,Toast of London,-1,11
+Steven,Toast of London,0,16
+Steven,Toast of London,1,15
+Steven,Toast of London,2,17
+Steven,Toast of London,3,13
+Jane,Toast of London,-3,9
+Jane,Toast of London,-2,16
+Jane,Toast of London,-1,14
+Jane,Toast of London,0,16
+Jane,Toast of London,1,17
+Jane,Toast of London,2,18
+Jane,Toast of London,3,12
+Vera,Wentworth,-3,2
+Vera,Wentworth,-2,4
+Vera,Wentworth,-1,8
+Vera,Wentworth,0,14
+Vera,Wentworth,1,24
+Vera,Wentworth,2,12
+Vera,Wentworth,3,12
+Will,Wentworth,-3,11
+Will,Wentworth,-2,7
+Will,Wentworth,-1,9
+Will,Wentworth,0,9
+Will,Wentworth,1,7
+Will,Wentworth,2,7
+Will,Wentworth,3,7
+Thomas,Peaky Blinders,-3,77
+Thomas,Peaky Blinders,-2,88
+Thomas,Peaky Blinders,-1,92
+Thomas,Peaky Blinders,0,107
+Thomas,Peaky Blinders,1,115
+Thomas,Peaky Blinders,2,121
+Thomas,Peaky Blinders,3,115
+Arthur,Peaky Blinders,-3,5
+Arthur,Peaky Blinders,-2,10
+Arthur,Peaky Blinders,-1,20
+Arthur,Peaky Blinders,0,9
+Arthur,Peaky Blinders,1,24
+Arthur,Peaky Blinders,2,33
+Arthur,Peaky Blinders,3,26
+Ada,Peaky Blinders,-3,13
+Ada,Peaky Blinders,-2,7
+Ada,Peaky Blinders,-1,11
+Ada,Peaky Blinders,0,18
+Ada,Peaky Blinders,1,13
+Ada,Peaky Blinders,2,10
+Ada,Peaky Blinders,3,14
+Nick,Happy!,-3,5
+Nick,Happy!,-2,6
+Nick,Happy!,-1,7
+Nick,Happy!,0,6
+Nick,Happy!,1,3
+Nick,Happy!,2,3
+Nick,Happy!,3,5
+Jake,Brooklyn Nine-Nine,-3,54
+Jake,Brooklyn Nine-Nine,-2,70
+Jake,Brooklyn Nine-Nine,-1,58
+Jake,Brooklyn Nine-Nine,0,59
+Jake,Brooklyn Nine-Nine,1,61
+Jake,Brooklyn Nine-Nine,2,66
+Jake,Brooklyn Nine-Nine,3,62
+Claire,The Returned,-3,95
+Claire,The Returned,-2,102
+Claire,The Returned,-1,90
+Claire,The Returned,0,105
+Claire,The Returned,1,99
+Claire,The Returned,2,107
+Claire,The Returned,3,117
+Joe,Halt and Catch Fire,-3,7
+Joe,Halt and Catch Fire,-2,3
+Joe,Halt and Catch Fire,-1,6
+Joe,Halt and Catch Fire,0,6
+Joe,Halt and Catch Fire,1,7
+Joe,Halt and Catch Fire,2,3
+Joe,Halt and Catch Fire,3,2
+Gordon,Halt and Catch Fire,-3,7
+Gordon,Halt and Catch Fire,-2,5
+Gordon,Halt and Catch Fire,-1,8
+Gordon,Halt and Catch Fire,0,9
+Gordon,Halt and Catch Fire,1,6
+Gordon,Halt and Catch Fire,2,11
+Gordon,Halt and Catch Fire,3,9
+Cameron,Halt and Catch Fire,-3,70
+Cameron,Halt and Catch Fire,-2,70
+Cameron,Halt and Catch Fire,-1,56
+Cameron,Halt and Catch Fire,0,74
+Cameron,Halt and Catch Fire,1,68
+Cameron,Halt and Catch Fire,2,64
+Cameron,Halt and Catch Fire,3,44
+Abraham,TURN: Washington's Spies,-3,7
+Abraham,TURN: Washington's Spies,-2,10
+Abraham,TURN: Washington's Spies,-1,14
+Abraham,TURN: Washington's Spies,0,8
+Abraham,TURN: Washington's Spies,1,11
+Abraham,TURN: Washington's Spies,2,10
+Abraham,TURN: Washington's Spies,3,11
+Anna,TURN: Washington's Spies,-3,91
+Anna,TURN: Washington's Spies,-2,93
+Anna,TURN: Washington's Spies,-1,88
+Anna,TURN: Washington's Spies,0,122
+Anna,TURN: Washington's Spies,1,93
+Anna,TURN: Washington's Spies,2,110
+Anna,TURN: Washington's Spies,3,69
+John,TURN: Washington's Spies,-3,84
+John,TURN: Washington's Spies,-2,75
+John,TURN: Washington's Spies,-1,69
+John,TURN: Washington's Spies,0,102
+John,TURN: Washington's Spies,1,105
+John,TURN: Washington's Spies,2,98
+John,TURN: Washington's Spies,3,91
+Richard,Silicon Valley,-3,13
+Richard,Silicon Valley,-2,26
+Richard,Silicon Valley,-1,17
+Richard,Silicon Valley,0,20
+Richard,Silicon Valley,1,21
+Richard,Silicon Valley,2,19
+Richard,Silicon Valley,3,9
+Nelson,Silicon Valley,-3,4
+Nelson,Silicon Valley,-2,7
+Nelson,Silicon Valley,-1,3
+Nelson,Silicon Valley,0,5
+Nelson,Silicon Valley,1,3
+Nelson,Silicon Valley,2,5
+Nelson,Silicon Valley,3,6
+Lincoln,Broad City,-3,84
+Lincoln,Broad City,-2,95
+Lincoln,Broad City,-1,142
+Lincoln,Broad City,0,138
+Lincoln,Broad City,1,172
+Lincoln,Broad City,2,194
+Lincoln,Broad City,3,164
+Patrick,Looking,-3,21
+Patrick,Looking,-2,30
+Patrick,Looking,-1,30
+Patrick,Looking,0,51
+Patrick,Looking,1,28
+Patrick,Looking,2,25
+Patrick,Looking,3,28
+Violet,Vicious,-3,52
+Violet,Vicious,-2,47
+Violet,Vicious,-1,51
+Violet,Vicious,0,77
+Violet,Vicious,1,81
+Violet,Vicious,2,98
+Violet,Vicious,3,79
+Derek,Derek,-3,17
+Derek,Derek,-2,26
+Derek,Derek,-1,24
+Derek,Derek,0,30
+Derek,Derek,1,21
+Derek,Derek,2,12
+Derek,Derek,3,21
+Hannah,Derek,-3,126
+Hannah,Derek,-2,125
+Hannah,Derek,-1,105
+Hannah,Derek,0,135
+Hannah,Derek,1,138
+Hannah,Derek,2,146
+Hannah,Derek,3,128
+Ethan,Penny Dreadful,-3,257
+Ethan,Penny Dreadful,-2,276
+Ethan,Penny Dreadful,-1,245
+Ethan,Penny Dreadful,0,253
+Ethan,Penny Dreadful,1,233
+Ethan,Penny Dreadful,2,205
+Ethan,Penny Dreadful,3,192
+Malcolm,Penny Dreadful,-3,21
+Malcolm,Penny Dreadful,-2,24
+Malcolm,Penny Dreadful,-1,26
+Malcolm,Penny Dreadful,0,14
+Malcolm,Penny Dreadful,1,30
+Malcolm,Penny Dreadful,2,26
+Malcolm,Penny Dreadful,3,20
+Vanessa,Penny Dreadful,-3,29
+Vanessa,Penny Dreadful,-2,30
+Vanessa,Penny Dreadful,-1,23
+Vanessa,Penny Dreadful,0,22
+Vanessa,Penny Dreadful,1,20
+Vanessa,Penny Dreadful,2,15
+Vanessa,Penny Dreadful,3,10
+Elijah,The Originals,-3,76
+Elijah,The Originals,-2,69
+Elijah,The Originals,-1,84
+Elijah,The Originals,0,84
+Elijah,The Originals,1,105
+Elijah,The Originals,2,83
+Elijah,The Originals,3,124
+Rebekah,The Originals,-3,9
+Rebekah,The Originals,-2,6
+Rebekah,The Originals,-1,14
+Rebekah,The Originals,0,16
+Rebekah,The Originals,1,10
+Rebekah,The Originals,2,13
+Rebekah,The Originals,3,11
+Reece,Inside No. 9,-3,16
+Reece,Inside No. 9,-2,17
+Reece,Inside No. 9,-1,13
+Reece,Inside No. 9,0,16
+Reece,Inside No. 9,1,10
+Reece,Inside No. 9,2,11
+Reece,Inside No. 9,3,13
+Aidan,Inside No. 9,-3,57
+Aidan,Inside No. 9,-2,44
+Aidan,Inside No. 9,-1,37
+Aidan,Inside No. 9,0,33
+Aidan,Inside No. 9,1,25
+Aidan,Inside No. 9,2,27
+Aidan,Inside No. 9,3,20
+Alan,Inside No. 9,-3,8
+Alan,Inside No. 9,-2,9
+Alan,Inside No. 9,-1,9
+Alan,Inside No. 9,0,7
+Alan,Inside No. 9,1,6
+Alan,Inside No. 9,2,11
+Alan,Inside No. 9,3,9
+Kevin,The Leftovers,-3,24
+Kevin,The Leftovers,-2,42
+Kevin,The Leftovers,-1,31
+Kevin,The Leftovers,0,26
+Kevin,The Leftovers,1,30
+Kevin,The Leftovers,2,19
+Kevin,The Leftovers,3,25
+Adam,The Goldbergs,-3,123
+Adam,The Goldbergs,-2,129
+Adam,The Goldbergs,-1,114
+Adam,The Goldbergs,0,104
+Adam,The Goldbergs,1,141
+Adam,The Goldbergs,2,141
+Adam,The Goldbergs,3,111
+Raymond,The Blacklist,-3,9
+Raymond,The Blacklist,-2,11
+Raymond,The Blacklist,-1,13
+Raymond,The Blacklist,0,9
+Raymond,The Blacklist,1,12
+Raymond,The Blacklist,2,13
+Raymond,The Blacklist,3,17
+Elizabeth,The Blacklist,-3,117
+Elizabeth,The Blacklist,-2,115
+Elizabeth,The Blacklist,-1,88
+Elizabeth,The Blacklist,0,112
+Elizabeth,The Blacklist,1,107
+Elizabeth,The Blacklist,2,139
+Elizabeth,The Blacklist,3,134
+Donald,The Blacklist,-3,6
+Donald,The Blacklist,-2,4
+Donald,The Blacklist,-1,5
+Donald,The Blacklist,0,1
+Donald,The Blacklist,1,5
+Donald,The Blacklist,2,8
+Donald,The Blacklist,3,7
+Marco,Star vs. the Forces of Evil,-3,12
+Marco,Star vs. the Forces of Evil,-2,15
+Marco,Star vs. the Forces of Evil,-1,11
+Marco,Star vs. the Forces of Evil,0,14
+Marco,Star vs. the Forces of Evil,1,11
+Marco,Star vs. the Forces of Evil,2,9
+Marco,Star vs. the Forces of Evil,3,10
+Linda,American Crime Story,-3,10
+Linda,American Crime Story,-2,6
+Linda,American Crime Story,-1,6
+Linda,American Crime Story,0,7
+Linda,American Crime Story,1,2
+Linda,American Crime Story,2,6
+Linda,American Crime Story,3,5
+Adam,Chicago P.D.,-3,129
+Adam,Chicago P.D.,-2,114
+Adam,Chicago P.D.,-1,104
+Adam,Chicago P.D.,0,141
+Adam,Chicago P.D.,1,141
+Adam,Chicago P.D.,2,111
+Adam,Chicago P.D.,3,133
+Viktor,The Kitchen,-3,3
+Viktor,The Kitchen,-2,7
+Viktor,The Kitchen,-1,5
+Viktor,The Kitchen,0,3
+Viktor,The Kitchen,1,5
+Viktor,The Kitchen,2,7
+Viktor,The Kitchen,3,5
+Maksim,The Kitchen,-3,5
+Maksim,The Kitchen,-2,5
+Maksim,The Kitchen,-1,5
+Maksim,The Kitchen,0,7
+Maksim,The Kitchen,1,5
+Maksim,The Kitchen,2,4
+Maksim,The Kitchen,3,3
+John,The Knick,-3,84
+John,The Knick,-2,75
+John,The Knick,-1,69
+John,The Knick,0,102
+John,The Knick,1,105
+John,The Knick,2,98
+John,The Knick,3,91
+Ana,Velvet,-3,7
+Ana,Velvet,-2,14
+Ana,Velvet,-1,8
+Ana,Velvet,0,8
+Ana,Velvet,1,9
+Ana,Velvet,2,9
+Ana,Velvet,3,16
+Claire,Outlander,-3,90
+Claire,Outlander,-2,105
+Claire,Outlander,-1,99
+Claire,Outlander,0,107
+Claire,Outlander,1,117
+Claire,Outlander,2,101
+Claire,Outlander,3,86
+Jamie,Outlander,-3,14
+Jamie,Outlander,-2,22
+Jamie,Outlander,-1,12
+Jamie,Outlander,0,20
+Jamie,Outlander,1,23
+Jamie,Outlander,2,17
+Jamie,Outlander,3,33
+Steven,Steven Universe,-3,20
+Steven,Steven Universe,-2,11
+Steven,Steven Universe,-1,16
+Steven,Steven Universe,0,15
+Steven,Steven Universe,1,17
+Steven,Steven Universe,2,13
+Steven,Steven Universe,3,20
+Annalise,How to Get Away with Murder,-3,14
+Annalise,How to Get Away with Murder,-2,10
+Annalise,How to Get Away with Murder,-1,10
+Annalise,How to Get Away with Murder,0,8
+Annalise,How to Get Away with Murder,1,7
+Annalise,How to Get Away with Murder,2,7
+Annalise,How to Get Away with Murder,3,7
+Nate,How to Get Away with Murder,-3,26
+Nate,How to Get Away with Murder,-2,31
+Nate,How to Get Away with Murder,-1,23
+Nate,How to Get Away with Murder,0,31
+Nate,How to Get Away with Murder,1,19
+Nate,How to Get Away with Murder,2,25
+Nate,How to Get Away with Murder,3,22
+Connor,How to Get Away with Murder,-3,123
+Connor,How to Get Away with Murder,-2,119
+Connor,How to Get Away with Murder,-1,117
+Connor,How to Get Away with Murder,0,123
+Connor,How to Get Away with Murder,1,127
+Connor,How to Get Away with Murder,2,128
+Connor,How to Get Away with Murder,3,129
+Naomi,The Expanse,-3,48
+Naomi,The Expanse,-2,40
+Naomi,The Expanse,-1,58
+Naomi,The Expanse,0,44
+Naomi,The Expanse,1,62
+Naomi,The Expanse,2,45
+Naomi,The Expanse,3,35
+James,Power,-3,160
+James,Power,-2,147
+James,Power,-1,157
+James,Power,0,156
+James,Power,1,187
+James,Power,2,175
+James,Power,3,157
+Angela,Power,-3,18
+Angela,Power,-2,17
+Angela,Power,-1,12
+Angela,Power,0,22
+Angela,Power,1,24
+Angela,Power,2,20
+Angela,Power,3,16
+Richard,Galavant,-3,26
+Richard,Galavant,-2,17
+Richard,Galavant,-1,20
+Richard,Galavant,0,21
+Richard,Galavant,1,19
+Richard,Galavant,2,9
+Richard,Galavant,3,19
+Wilson,Daredevil,-3,7
+Wilson,Daredevil,-2,5
+Wilson,Daredevil,-1,7
+Wilson,Daredevil,0,5
+Wilson,Daredevil,1,6
+Wilson,Daredevil,2,4
+Wilson,Daredevil,3,4
+Catherine,Happy Valley,-3,10
+Catherine,Happy Valley,-2,26
+Catherine,Happy Valley,-1,22
+Catherine,Happy Valley,0,28
+Catherine,Happy Valley,1,21
+Catherine,Happy Valley,2,17
+Catherine,Happy Valley,3,14
+Clare,Happy Valley,-3,5
+Clare,Happy Valley,-2,5
+Clare,Happy Valley,-1,5
+Clare,Happy Valley,0,3
+Clare,Happy Valley,1,5
+Clare,Happy Valley,2,6
+Clare,Happy Valley,3,5
+Tommy,Happy Valley,-3,6
+Tommy,Happy Valley,-2,5
+Tommy,Happy Valley,-1,6
+Tommy,Happy Valley,0,7
+Tommy,Happy Valley,1,3
+Tommy,Happy Valley,2,2
+Tommy,Happy Valley,3,6
+Henry,Forever,-3,91
+Henry,Forever,-2,93
+Henry,Forever,-1,97
+Henry,Forever,0,109
+Henry,Forever,1,120
+Henry,Forever,2,145
+Henry,Forever,3,125
+Lucas,Forever,-3,224
+Lucas,Forever,-2,213
+Lucas,Forever,-1,254
+Lucas,Forever,0,214
+Lucas,Forever,1,218
+Lucas,Forever,2,247
+Lucas,Forever,3,216
+Hailey,Mozart in the Jungle,-3,104
+Hailey,Mozart in the Jungle,-2,125
+Hailey,Mozart in the Jungle,-1,106
+Hailey,Mozart in the Jungle,0,116
+Hailey,Mozart in the Jungle,1,85
+Hailey,Mozart in the Jungle,2,108
+Hailey,Mozart in the Jungle,3,109
+Cynthia,Mozart in the Jungle,-3,3
+Cynthia,Mozart in the Jungle,-2,8
+Cynthia,Mozart in the Jungle,-1,2
+Cynthia,Mozart in the Jungle,0,10
+Cynthia,Mozart in the Jungle,1,4
+Cynthia,Mozart in the Jungle,2,6
+Cynthia,Mozart in the Jungle,3,6
+Harry,Bosch,-3,3
+Harry,Bosch,-2,4
+Harry,Bosch,-1,7
+Harry,Bosch,0,7
+Harry,Bosch,1,7
+Harry,Bosch,2,13
+Harry,Bosch,3,6
+Grace,Bosch,-3,123
+Grace,Bosch,-2,132
+Grace,Bosch,-1,115
+Grace,Bosch,0,134
+Grace,Bosch,1,136
+Grace,Bosch,2,135
+Grace,Bosch,3,119
+Johnny,Schitt's Creek,-3,12
+Johnny,Schitt's Creek,-2,15
+Johnny,Schitt's Creek,-1,7
+Johnny,Schitt's Creek,0,11
+Johnny,Schitt's Creek,1,10
+Johnny,Schitt's Creek,2,10
+Johnny,Schitt's Creek,3,9
+David,Schitt's Creek,-3,116
+David,Schitt's Creek,-2,91
+David,Schitt's Creek,-1,122
+David,Schitt's Creek,0,115
+David,Schitt's Creek,1,107
+David,Schitt's Creek,2,102
+David,Schitt's Creek,3,93
+Grace,Grace and Frankie,-3,132
+Grace,Grace and Frankie,-2,115
+Grace,Grace and Frankie,-1,134
+Grace,Grace and Frankie,0,136
+Grace,Grace and Frankie,1,135
+Grace,Grace and Frankie,2,119
+Grace,Grace and Frankie,3,120
+Frankie,Grace and Frankie,-3,2
+Frankie,Grace and Frankie,-2,6
+Frankie,Grace and Frankie,-1,13
+Frankie,Grace and Frankie,0,12
+Frankie,Grace and Frankie,1,13
+Frankie,Grace and Frankie,2,7
+Frankie,Grace and Frankie,3,22
+James,Taboo,-3,156
+James,Taboo,-2,187
+James,Taboo,-1,175
+James,Taboo,0,157
+James,Taboo,1,159
+James,Taboo,2,150
+James,Taboo,3,130
+Lisa,Kingdom,-3,14
+Lisa,Kingdom,-2,13
+Lisa,Kingdom,-1,13
+Lisa,Kingdom,0,11
+Lisa,Kingdom,1,11
+Lisa,Kingdom,2,18
+Lisa,Kingdom,3,15
+Ryan,Kingdom,-3,123
+Ryan,Kingdom,-2,136
+Ryan,Kingdom,-1,136
+Ryan,Kingdom,0,115
+Ryan,Kingdom,1,126
+Ryan,Kingdom,2,115
+Ryan,Kingdom,3,84
+Julien,The Missing,-3,8
+Julien,The Missing,-2,6
+Julien,The Missing,-1,4
+Julien,The Missing,0,8
+Julien,The Missing,1,6
+Julien,The Missing,2,13
+Julien,The Missing,3,6
+Tony,The Missing,-3,13
+Tony,The Missing,-2,9
+Tony,The Missing,-1,8
+Tony,The Missing,0,13
+Tony,The Missing,1,7
+Tony,The Missing,2,7
+Tony,The Missing,3,9
+Madeline,Big Little Lies,-3,42
+Madeline,Big Little Lies,-2,38
+Madeline,Big Little Lies,-1,40
+Madeline,Big Little Lies,0,24
+Madeline,Big Little Lies,1,22
+Madeline,Big Little Lies,2,41
+Madeline,Big Little Lies,3,24
+Celeste,Big Little Lies,-3,5
+Celeste,Big Little Lies,-2,4
+Celeste,Big Little Lies,-1,5
+Celeste,Big Little Lies,0,12
+Celeste,Big Little Lies,1,10
+Celeste,Big Little Lies,2,10
+Celeste,Big Little Lies,3,5
+Jane,Big Little Lies,-3,18
+Jane,Big Little Lies,-2,12
+Jane,Big Little Lies,-1,14
+Jane,Big Little Lies,0,18
+Jane,Big Little Lies,1,23
+Jane,Big Little Lies,2,23
+Jane,Big Little Lies,3,15
+Vivienne,No Offence,-3,11
+Vivienne,No Offence,-2,8
+Vivienne,No Offence,-1,8
+Vivienne,No Offence,0,17
+Vivienne,No Offence,1,13
+Vivienne,No Offence,2,9
+Vivienne,No Offence,3,11
+Amanda,Dirk Gently's Holistic Detective Agency,-3,14
+Amanda,Dirk Gently's Holistic Detective Agency,-2,17
+Amanda,Dirk Gently's Holistic Detective Agency,-1,20
+Amanda,Dirk Gently's Holistic Detective Agency,0,20
+Amanda,Dirk Gently's Holistic Detective Agency,1,15
+Amanda,Dirk Gently's Holistic Detective Agency,2,9
+Amanda,Dirk Gently's Holistic Detective Agency,3,11
+Dylan,Lovesick,-3,99
+Dylan,Lovesick,-2,102
+Dylan,Lovesick,-1,93
+Dylan,Lovesick,0,94
+Dylan,Lovesick,1,85
+Dylan,Lovesick,2,90
+Dylan,Lovesick,3,62
+Evie,Lovesick,-3,8
+Evie,Lovesick,-2,7
+Evie,Lovesick,-1,9
+Evie,Lovesick,0,8
+Evie,Lovesick,1,16
+Evie,Lovesick,2,12
+Evie,Lovesick,3,27
+Luke,Lovesick,-3,87
+Luke,Lovesick,-2,127
+Luke,Lovesick,-1,118
+Luke,Lovesick,0,148
+Luke,Lovesick,1,141
+Luke,Lovesick,2,132
+Luke,Lovesick,3,124
+Michael,Lucifer,-3,101
+Michael,Lucifer,-2,113
+Michael,Lucifer,-1,116
+Michael,Lucifer,0,105
+Michael,Lucifer,1,97
+Michael,Lucifer,2,84
+Michael,Lucifer,3,75
+Chloe,Lucifer,-3,156
+Chloe,Lucifer,-2,143
+Chloe,Lucifer,-1,179
+Chloe,Lucifer,0,166
+Chloe,Lucifer,1,129
+Chloe,Lucifer,2,115
+Chloe,Lucifer,3,113
+Andy,Detectorists,-3,11
+Andy,Detectorists,-2,7
+Andy,Detectorists,-1,8
+Andy,Detectorists,0,7
+Andy,Detectorists,1,10
+Andy,Detectorists,2,9
+Andy,Detectorists,3,7
+Lance,Detectorists,-3,5
+Lance,Detectorists,-2,9
+Lance,Detectorists,-1,10
+Lance,Detectorists,0,7
+Lance,Detectorists,1,5
+Lance,Detectorists,2,14
+Lance,Detectorists,3,3
+Laura,Twin Peaks,-3,21
+Laura,Twin Peaks,-2,16
+Laura,Twin Peaks,-1,24
+Laura,Twin Peaks,0,14
+Laura,Twin Peaks,1,24
+Laura,Twin Peaks,2,19
+Laura,Twin Peaks,3,18
+Elliot,Mr. Robot,-3,42
+Elliot,Mr. Robot,-2,47
+Elliot,Mr. Robot,-1,43
+Elliot,Mr. Robot,0,51
+Elliot,Mr. Robot,1,56
+Elliot,Mr. Robot,2,52
+Elliot,Mr. Robot,3,41
+Ashley,Ash vs Evil Dead,-3,20
+Ashley,Ash vs Evil Dead,-2,22
+Ashley,Ash vs Evil Dead,-1,16
+Ashley,Ash vs Evil Dead,0,23
+Ashley,Ash vs Evil Dead,1,22
+Ashley,Ash vs Evil Dead,2,17
+Ashley,Ash vs Evil Dead,3,13
+Kelly,Ash vs Evil Dead,-3,6
+Kelly,Ash vs Evil Dead,-2,7
+Kelly,Ash vs Evil Dead,-1,5
+Kelly,Ash vs Evil Dead,0,5
+Kelly,Ash vs Evil Dead,1,7
+Kelly,Ash vs Evil Dead,2,11
+Kelly,Ash vs Evil Dead,3,6
+John,Yellowstone,-3,105
+John,Yellowstone,-2,98
+John,Yellowstone,-1,91
+John,Yellowstone,0,83
+John,Yellowstone,1,64
+John,Yellowstone,2,77
+John,Yellowstone,3,82
+Mathias,Call My Agent!,-3,6
+Mathias,Call My Agent!,-2,7
+Mathias,Call My Agent!,-1,8
+Mathias,Call My Agent!,0,15
+Mathias,Call My Agent!,1,10
+Mathias,Call My Agent!,2,8
+Mathias,Call My Agent!,3,8
+Gabriel,Call My Agent!,-3,112
+Gabriel,Call My Agent!,-2,123
+Gabriel,Call My Agent!,-1,148
+Gabriel,Call My Agent!,0,172
+Gabriel,Call My Agent!,1,133
+Gabriel,Call My Agent!,2,125
+Gabriel,Call My Agent!,3,101
+Frank,F Is for Family,-3,9
+Frank,F Is for Family,-2,11
+Frank,F Is for Family,-1,10
+Frank,F Is for Family,0,12
+Frank,F Is for Family,1,13
+Frank,F Is for Family,2,19
+Frank,F Is for Family,3,4
+Chris,Catastrophe,-3,3
+Chris,Catastrophe,-2,10
+Chris,Catastrophe,-1,9
+Chris,Catastrophe,0,7
+Chris,Catastrophe,1,10
+Chris,Catastrophe,2,5
+Chris,Catastrophe,3,5
+Charlotte,Babylon Berlin,-3,146
+Charlotte,Babylon Berlin,-2,141
+Charlotte,Babylon Berlin,-1,180
+Charlotte,Babylon Berlin,0,187
+Charlotte,Babylon Berlin,1,175
+Charlotte,Babylon Berlin,2,188
+Charlotte,Babylon Berlin,3,162
+Alfred,Babylon Berlin,-3,2
+Alfred,Babylon Berlin,-2,4
+Alfred,Babylon Berlin,-1,6
+Alfred,Babylon Berlin,0,8
+Alfred,Babylon Berlin,1,3
+Alfred,Babylon Berlin,2,10
+Alfred,Babylon Berlin,3,6
+Heather,Life in Pieces,-3,6
+Heather,Life in Pieces,-2,8
+Heather,Life in Pieces,-1,4
+Heather,Life in Pieces,0,7
+Heather,Life in Pieces,1,2
+Heather,Life in Pieces,2,1
+Heather,Life in Pieces,3,6
+Leanne,Code Black,-3,6
+Leanne,Code Black,-2,2
+Leanne,Code Black,-1,6
+Leanne,Code Black,0,11
+Leanne,Code Black,1,6
+Leanne,Code Black,2,8
+Leanne,Code Black,3,7
+Angus,Code Black,-3,9
+Angus,Code Black,-2,9
+Angus,Code Black,-1,7
+Angus,Code Black,0,8
+Angus,Code Black,1,9
+Angus,Code Black,2,10
+Angus,Code Black,3,6
+Jane,Stranger Things,-3,17
+Jane,Stranger Things,-2,18
+Jane,Stranger Things,-1,12
+Jane,Stranger Things,0,14
+Jane,Stranger Things,1,18
+Jane,Stranger Things,2,23
+Jane,Stranger Things,3,23
+Ezekiel,The Get Down,-3,24
+Ezekiel,The Get Down,-2,21
+Ezekiel,The Get Down,-1,30
+Ezekiel,The Get Down,0,24
+Ezekiel,The Get Down,1,34
+Ezekiel,The Get Down,2,34
+Ezekiel,The Get Down,3,33
+Emily,Counterpart,-3,231
+Emily,Counterpart,-2,252
+Emily,Counterpart,-1,187
+Emily,Counterpart,0,159
+Emily,Counterpart,1,164
+Emily,Counterpart,2,150
+Emily,Counterpart,3,127
+Peter,Counterpart,-3,48
+Peter,Counterpart,-2,34
+Peter,Counterpart,-1,36
+Peter,Counterpart,0,34
+Peter,Counterpart,1,40
+Peter,Counterpart,2,35
+Peter,Counterpart,3,35
+John,Patriot,-3,75
+John,Patriot,-2,69
+John,Patriot,-1,102
+John,Patriot,0,105
+John,Patriot,1,98
+John,Patriot,2,91
+John,Patriot,3,83
+Edward,Patriot,-3,33
+Edward,Patriot,-2,33
+Edward,Patriot,-1,31
+Edward,Patriot,0,28
+Edward,Patriot,1,31
+Edward,Patriot,2,32
+Edward,Patriot,3,26
+Jane,Good Girls Revolt,-3,16
+Jane,Good Girls Revolt,-2,17
+Jane,Good Girls Revolt,-1,18
+Jane,Good Girls Revolt,0,12
+Jane,Good Girls Revolt,1,14
+Jane,Good Girls Revolt,2,18
+Jane,Good Girls Revolt,3,23
+Elizabeth,The Crown,-3,112
+Elizabeth,The Crown,-2,107
+Elizabeth,The Crown,-1,139
+Elizabeth,The Crown,0,134
+Elizabeth,The Crown,1,106
+Elizabeth,The Crown,2,132
+Elizabeth,The Crown,3,124
+Astrid,Dragons: Race to the Edge,-3,6
+Astrid,Dragons: Race to the Edge,-2,6
+Astrid,Dragons: Race to the Edge,-1,10
+Astrid,Dragons: Race to the Edge,0,5
+Astrid,Dragons: Race to the Edge,1,8
+Astrid,Dragons: Race to the Edge,2,21
+Astrid,Dragons: Race to the Edge,3,10
+Christian,Good Behavior,-3,37
+Christian,Good Behavior,-2,40
+Christian,Good Behavior,-1,51
+Christian,Good Behavior,0,36
+Christian,Good Behavior,1,32
+Christian,Good Behavior,2,31
+Christian,Good Behavior,3,29
+Laurel,BrainDead,-3,5
+Laurel,BrainDead,-2,3
+Laurel,BrainDead,-1,11
+Laurel,BrainDead,0,7
+Laurel,BrainDead,1,6
+Laurel,BrainDead,2,1
+Laurel,BrainDead,3,2
+Luke,BrainDead,-3,118
+Luke,BrainDead,-2,148
+Luke,BrainDead,-1,141
+Luke,BrainDead,0,132
+Luke,BrainDead,1,124
+Luke,BrainDead,2,112
+Luke,BrainDead,3,102
+Eleanor,The Good Place,-3,17
+Eleanor,The Good Place,-2,39
+Eleanor,The Good Place,-1,52
+Eleanor,The Good Place,0,52
+Eleanor,The Good Place,1,52
+Eleanor,The Good Place,2,42
+Eleanor,The Good Place,3,58
+Frankie,The Deuce,-3,13
+Frankie,The Deuce,-2,12
+Frankie,The Deuce,-1,13
+Frankie,The Deuce,0,7
+Frankie,The Deuce,1,22
+Frankie,The Deuce,2,16
+Frankie,The Deuce,3,24
+Vincent,The Deuce,-3,41
+Vincent,The Deuce,-2,30
+Vincent,The Deuce,-1,40
+Vincent,The Deuce,0,37
+Vincent,The Deuce,1,28
+Vincent,The Deuce,2,29
+Vincent,The Deuce,3,27
+Julia,Sneaky Pete,-3,77
+Julia,Sneaky Pete,-2,67
+Julia,Sneaky Pete,-1,61
+Julia,Sneaky Pete,0,76
+Julia,Sneaky Pete,1,62
+Julia,Sneaky Pete,2,61
+Julia,Sneaky Pete,3,67
+Lawrence,The Durrells,-3,8
+Lawrence,The Durrells,-2,9
+Lawrence,The Durrells,-1,8
+Lawrence,The Durrells,0,8
+Lawrence,The Durrells,1,5
+Lawrence,The Durrells,2,6
+Lawrence,The Durrells,3,5
+Molly,Insecure,-3,43
+Molly,Insecure,-2,48
+Molly,Insecure,-1,32
+Molly,Insecure,0,31
+Molly,Insecure,1,25
+Molly,Insecure,2,24
+Molly,Insecure,3,20
+Lawrence,Insecure,-3,8
+Lawrence,Insecure,-2,9
+Lawrence,Insecure,-1,8
+Lawrence,Insecure,0,8
+Lawrence,Insecure,1,5
+Lawrence,Insecure,2,6
+Lawrence,Insecure,3,5
+Adam,Adam Ruins Everything,-3,114
+Adam,Adam Ruins Everything,-2,104
+Adam,Adam Ruins Everything,-1,141
+Adam,Adam Ruins Everything,0,141
+Adam,Adam Ruins Everything,1,111
+Adam,Adam Ruins Everything,2,133
+Adam,Adam Ruins Everything,3,138
+Jack,Tom Clancy's Jack Ryan,-3,172
+Jack,Tom Clancy's Jack Ryan,-2,197
+Jack,Tom Clancy's Jack Ryan,-1,189
+Jack,Tom Clancy's Jack Ryan,0,167
+Jack,Tom Clancy's Jack Ryan,1,198
+Jack,Tom Clancy's Jack Ryan,2,170
+Jack,Tom Clancy's Jack Ryan,3,222
+James,Tom Clancy's Jack Ryan,-3,187
+James,Tom Clancy's Jack Ryan,-2,175
+James,Tom Clancy's Jack Ryan,-1,157
+James,Tom Clancy's Jack Ryan,0,159
+James,Tom Clancy's Jack Ryan,1,150
+James,Tom Clancy's Jack Ryan,2,130
+James,Tom Clancy's Jack Ryan,3,134
+Martin,Ozark,-3,29
+Martin,Ozark,-2,19
+Martin,Ozark,-1,17
+Martin,Ozark,0,14
+Martin,Ozark,1,24
+Martin,Ozark,2,18
+Martin,Ozark,3,20
+Charlotte,Ozark,-3,146
+Charlotte,Ozark,-2,141
+Charlotte,Ozark,-1,180
+Charlotte,Ozark,0,187
+Charlotte,Ozark,1,175
+Charlotte,Ozark,2,188
+Charlotte,Ozark,3,162
+David,Legion,-3,122
+David,Legion,-2,115
+David,Legion,-1,107
+David,Legion,0,102
+David,Legion,1,93
+David,Legion,2,90
+David,Legion,3,84
+Victoria,Victoria,-3,69
+Victoria,Victoria,-2,87
+Victoria,Victoria,-1,111
+Victoria,Victoria,0,90
+Victoria,Victoria,1,100
+Victoria,Victoria,2,67
+Victoria,Victoria,3,76
+Holden,Mindhunter,-3,25
+Holden,Mindhunter,-2,23
+Holden,Mindhunter,-1,24
+Holden,Mindhunter,0,28
+Holden,Mindhunter,1,33
+Holden,Mindhunter,2,19
+Holden,Mindhunter,3,22
+Penelope,One Day at a Time,-3,45
+Penelope,One Day at a Time,-2,64
+Penelope,One Day at a Time,-1,58
+Penelope,One Day at a Time,0,58
+Penelope,One Day at a Time,1,38
+Penelope,One Day at a Time,2,67
+Penelope,One Day at a Time,3,52
+Elena,One Day at a Time,-3,37
+Elena,One Day at a Time,-2,33
+Elena,One Day at a Time,-1,44
+Elena,One Day at a Time,0,36
+Elena,One Day at a Time,1,46
+Elena,One Day at a Time,2,33
+Elena,One Day at a Time,3,31
+Monroe,Barry,-3,7
+Monroe,Barry,-2,9
+Monroe,Barry,-1,12
+Monroe,Barry,0,12
+Monroe,Barry,1,10
+Monroe,Barry,2,9
+Monroe,Barry,3,10
+Anne,Anne with an E,-3,4
+Anne,Anne with an E,-2,2
+Anne,Anne with an E,-1,12
+Anne,Anne with an E,0,5
+Anne,Anne with an E,1,6
+Anne,Anne with an E,2,6
+Anne,Anne with an E,3,8
+Jack,This Is Us,-3,178
+Jack,This Is Us,-2,198
+Jack,This Is Us,-1,172
+Jack,This Is Us,0,197
+Jack,This Is Us,1,189
+Jack,This Is Us,2,167
+Jack,This Is Us,3,198
+Rebecca,This Is Us,-3,35
+Rebecca,This Is Us,-2,48
+Rebecca,This Is Us,-1,44
+Rebecca,This Is Us,0,41
+Rebecca,This Is Us,1,36
+Rebecca,This Is Us,2,34
+Rebecca,This Is Us,3,27
+Andrew,Animal Kingdom,-3,86
+Andrew,Animal Kingdom,-2,101
+Andrew,Animal Kingdom,-1,85
+Andrew,Animal Kingdom,0,74
+Andrew,Animal Kingdom,1,92
+Andrew,Animal Kingdom,2,63
+Andrew,Animal Kingdom,3,46
+Lance,Voltron: Legendary Defender,-3,10
+Lance,Voltron: Legendary Defender,-2,7
+Lance,Voltron: Legendary Defender,-1,5
+Lance,Voltron: Legendary Defender,0,14
+Lance,Voltron: Legendary Defender,1,3
+Lance,Voltron: Legendary Defender,2,7
+Lance,Voltron: Legendary Defender,3,8
+Nina,The Restaurant,-3,21
+Nina,The Restaurant,-2,22
+Nina,The Restaurant,-1,10
+Nina,The Restaurant,0,13
+Nina,The Restaurant,1,16
+Nina,The Restaurant,2,14
+Nina,The Restaurant,3,16
+Amy,Flowers,-3,31
+Amy,Flowers,-2,41
+Amy,Flowers,-1,32
+Amy,Flowers,0,37
+Amy,Flowers,1,24
+Amy,Flowers,2,31
+Amy,Flowers,3,29
+Deborah,Flowers,-3,1
+Deborah,Flowers,-2,6
+Deborah,Flowers,-1,6
+Deborah,Flowers,0,9
+Deborah,Flowers,1,3
+Deborah,Flowers,2,5
+Deborah,Flowers,3,8
+Grant,Travelers,-3,6
+Grant,Travelers,-2,8
+Grant,Travelers,-1,10
+Grant,Travelers,0,17
+Grant,Travelers,1,8
+Grant,Travelers,2,12
+Grant,Travelers,3,7
+Carly,Travelers,-3,13
+Carly,Travelers,-2,9
+Carly,Travelers,-1,12
+Carly,Travelers,0,8
+Carly,Travelers,1,4
+Carly,Travelers,2,6
+Carly,Travelers,3,3
+Claire,Fleabag,-3,99
+Claire,Fleabag,-2,107
+Claire,Fleabag,-1,117
+Claire,Fleabag,0,101
+Claire,Fleabag,1,86
+Claire,Fleabag,2,77
+Claire,Fleabag,3,74
+Claire,The Orville,-3,107
+Claire,The Orville,-2,117
+Claire,The Orville,-1,101
+Claire,The Orville,0,86
+Claire,The Orville,1,77
+Claire,The Orville,2,74
+Claire,The Orville,3,79
+Charles,Brockmire,-3,72
+Charles,Brockmire,-2,64
+Charles,Brockmire,-1,73
+Charles,Brockmire,0,68
+Charles,Brockmire,1,57
+Charles,Brockmire,2,74
+Charles,Brockmire,3,59
+Jules,Brockmire,-3,4
+Jules,Brockmire,-2,7
+Jules,Brockmire,-1,6
+Jules,Brockmire,0,6
+Jules,Brockmire,1,2
+Jules,Brockmire,2,2
+Jules,Brockmire,3,3
+Jonas,Dark,-3,19
+Jonas,Dark,-2,16
+Jonas,Dark,-1,11
+Jonas,Dark,0,10
+Jonas,Dark,1,10
+Jonas,Dark,2,8
+Jonas,Dark,3,16
+Charlotte,Dark,-3,146
+Charlotte,Dark,-2,141
+Charlotte,Dark,-1,180
+Charlotte,Dark,0,187
+Charlotte,Dark,1,175
+Charlotte,Dark,2,188
+Charlotte,Dark,3,162
+Miles,Get Shorty,-3,33
+Miles,Get Shorty,-2,30
+Miles,Get Shorty,-1,27
+Miles,Get Shorty,0,35
+Miles,Get Shorty,1,37
+Miles,Get Shorty,2,46
+Miles,Get Shorty,3,53
+Louis,Get Shorty,-3,14
+Louis,Get Shorty,-2,16
+Louis,Get Shorty,-1,20
+Louis,Get Shorty,0,14
+Louis,Get Shorty,1,15
+Louis,Get Shorty,2,18
+Louis,Get Shorty,3,19
+Ruth,GLOW,-3,14
+Ruth,GLOW,-2,19
+Ruth,GLOW,-1,26
+Ruth,GLOW,0,12
+Ruth,GLOW,1,12
+Ruth,GLOW,2,17
+Ruth,GLOW,3,23
+Sam,GLOW,-3,22
+Sam,GLOW,-2,19
+Sam,GLOW,-1,31
+Sam,GLOW,0,22
+Sam,GLOW,1,11
+Sam,GLOW,2,16
+Sam,GLOW,3,10
+Miriam,The Marvelous Mrs. Maisel,-3,5
+Miriam,The Marvelous Mrs. Maisel,-2,12
+Miriam,The Marvelous Mrs. Maisel,-1,4
+Miriam,The Marvelous Mrs. Maisel,0,9
+Miriam,The Marvelous Mrs. Maisel,1,11
+Miriam,The Marvelous Mrs. Maisel,2,8
+Miriam,The Marvelous Mrs. Maisel,3,11
+Joel,The Marvelous Mrs. Maisel,-3,48
+Joel,The Marvelous Mrs. Maisel,-2,27
+Joel,The Marvelous Mrs. Maisel,-1,28
+Joel,The Marvelous Mrs. Maisel,0,22
+Joel,The Marvelous Mrs. Maisel,1,16
+Joel,The Marvelous Mrs. Maisel,2,12
+Joel,The Marvelous Mrs. Maisel,3,9
+June,The Handmaid's Tale,-3,10
+June,The Handmaid's Tale,-2,17
+June,The Handmaid's Tale,-1,10
+June,The Handmaid's Tale,0,15
+June,The Handmaid's Tale,1,18
+June,The Handmaid's Tale,2,23
+June,The Handmaid's Tale,3,18
+Serena,The Handmaid's Tale,-3,23
+Serena,The Handmaid's Tale,-2,27
+Serena,The Handmaid's Tale,-1,19
+Serena,The Handmaid's Tale,0,18
+Serena,The Handmaid's Tale,1,22
+Serena,The Handmaid's Tale,2,16
+Serena,The Handmaid's Tale,3,8
+Marissa,The Good Fight,-3,4
+Marissa,The Good Fight,-2,7
+Marissa,The Good Fight,-1,7
+Marissa,The Good Fight,0,11
+Marissa,The Good Fight,1,4
+Marissa,The Good Fight,2,4
+Marissa,The Good Fight,3,4
+Jay,The Good Fight,-3,9
+Jay,The Good Fight,-2,6
+Jay,The Good Fight,-1,7
+Jay,The Good Fight,0,13
+Jay,The Good Fight,1,12
+Jay,The Good Fight,2,11
+Jay,The Good Fight,3,16
+Garrett,Last Chance U,-3,10
+Garrett,Last Chance U,-2,13
+Garrett,Last Chance U,-1,12
+Garrett,Last Chance U,0,8
+Garrett,Last Chance U,1,12
+Garrett,Last Chance U,2,10
+Garrett,Last Chance U,3,5
+Clark,Justice League Unlimited,-3,3
+Clark,Justice League Unlimited,-2,3
+Clark,Justice League Unlimited,-1,7
+Clark,Justice League Unlimited,0,6
+Clark,Justice League Unlimited,1,8
+Clark,Justice League Unlimited,2,7
+Clark,Justice League Unlimited,3,7
+Jules,High Maintenance,-3,3
+Jules,High Maintenance,-2,4
+Jules,High Maintenance,-1,7
+Jules,High Maintenance,0,6
+Jules,High Maintenance,1,6
+Jules,High Maintenance,2,2
+Jules,High Maintenance,3,2
+Alyssa,The End of the F***ing World,-3,51
+Alyssa,The End of the F***ing World,-2,53
+Alyssa,The End of the F***ing World,-1,40
+Alyssa,The End of the F***ing World,0,28
+Alyssa,The End of the F***ing World,1,21
+Alyssa,The End of the F***ing World,2,19
+Alyssa,The End of the F***ing World,3,23
+James,The End of the F***ing World,-3,156
+James,The End of the F***ing World,-2,187
+James,The End of the F***ing World,-1,175
+James,The End of the F***ing World,0,157
+James,The End of the F***ing World,1,159
+James,The End of the F***ing World,2,150
+James,The End of the F***ing World,3,130
+Elsa,Atypical,-3,30
+Elsa,Atypical,-2,7
+Elsa,Atypical,-1,9
+Elsa,Atypical,0,5
+Elsa,Atypical,1,7
+Elsa,Atypical,2,5
+Elsa,Atypical,3,5
+Sam,Atypical,-3,22
+Sam,Atypical,-2,19
+Sam,Atypical,-1,31
+Sam,Atypical,0,22
+Sam,Atypical,1,11
+Sam,Atypical,2,16
+Sam,Atypical,3,10
+Casey,Atypical,-3,19
+Casey,Atypical,-2,27
+Casey,Atypical,-1,40
+Casey,Atypical,0,26
+Casey,Atypical,1,30
+Casey,Atypical,2,22
+Casey,Atypical,3,21
+David,Hilda,-3,115
+David,Hilda,-2,107
+David,Hilda,-1,102
+David,Hilda,0,93
+David,Hilda,1,90
+David,Hilda,2,84
+David,Hilda,3,80
+Franklin,Snowfall,-3,6
+Franklin,Snowfall,-2,7
+Franklin,Snowfall,-1,6
+Franklin,Snowfall,0,8
+Franklin,Snowfall,1,8
+Franklin,Snowfall,2,7
+Franklin,Snowfall,3,14
+Danny,Breathe,-3,5
+Danny,Breathe,-2,14
+Danny,Breathe,-1,3
+Danny,Breathe,0,5
+Danny,Breathe,1,5
+Danny,Breathe,2,12
+Danny,Breathe,3,9
+Kabir,Breathe,-3,10
+Kabir,Breathe,-2,8
+Kabir,Breathe,-1,11
+Kabir,Breathe,0,4
+Kabir,Breathe,1,20
+Kabir,Breathe,2,20
+Kabir,Breathe,3,29
+Shaun,The Good Doctor,-3,4
+Shaun,The Good Doctor,-2,4
+Shaun,The Good Doctor,-1,7
+Shaun,The Good Doctor,0,3
+Shaun,The Good Doctor,1,0
+Shaun,The Good Doctor,2,5
+Shaun,The Good Doctor,3,7
+Aaron,The Good Doctor,-3,47
+Aaron,The Good Doctor,-2,55
+Aaron,The Good Doctor,-1,71
+Aaron,The Good Doctor,0,68
+Aaron,The Good Doctor,1,44
+Aaron,The Good Doctor,2,46
+Aaron,The Good Doctor,3,43
+Marcus,The Good Doctor,-3,68
+Marcus,The Good Doctor,-2,69
+Marcus,The Good Doctor,-1,76
+Marcus,The Good Doctor,0,67
+Marcus,The Good Doctor,1,51
+Marcus,The Good Doctor,2,46
+Marcus,The Good Doctor,3,46
+Tara,Made in Heaven,-3,3
+Tara,Made in Heaven,-2,9
+Tara,Made in Heaven,-1,5
+Tara,Made in Heaven,0,4
+Tara,Made in Heaven,1,8
+Tara,Made in Heaven,2,5
+Tara,Made in Heaven,3,6
+Trevor,Castlevania,-3,7
+Trevor,Castlevania,-2,6
+Trevor,Castlevania,-1,7
+Trevor,Castlevania,0,9
+Trevor,Castlevania,1,5
+Trevor,Castlevania,2,7
+Trevor,Castlevania,3,5
+Jack,Heels,-3,167
+Jack,Heels,-2,198
+Jack,Heels,-1,170
+Jack,Heels,0,222
+Jack,Heels,1,167
+Jack,Heels,2,153
+Jack,Heels,3,140
+Ace,Heels,-3,13
+Ace,Heels,-2,6
+Ace,Heels,-1,15
+Ace,Heels,0,16
+Ace,Heels,1,19
+Ace,Heels,2,7
+Ace,Heels,3,12
+Mark,Invincible,-3,20
+Mark,Invincible,-2,27
+Mark,Invincible,-1,27
+Mark,Invincible,0,16
+Mark,Invincible,1,24
+Mark,Invincible,2,28
+Mark,Invincible,3,40
+Marco,The Mechanism,-3,14
+Marco,The Mechanism,-2,11
+Marco,The Mechanism,-1,9
+Marco,The Mechanism,0,10
+Marco,The Mechanism,1,9
+Marco,The Mechanism,2,11
+Marco,The Mechanism,3,13
+Peter,American Vandal,-3,48
+Peter,American Vandal,-2,34
+Peter,American Vandal,-1,36
+Peter,American Vandal,0,34
+Peter,American Vandal,1,40
+Peter,American Vandal,2,35
+Peter,American Vandal,3,35
+Sam,American Vandal,-3,22
+Sam,American Vandal,-2,19
+Sam,American Vandal,-1,31
+Sam,American Vandal,0,22
+Sam,American Vandal,1,11
+Sam,American Vandal,2,16
+Sam,American Vandal,3,10
+Dylan,American Vandal,-3,94
+Dylan,American Vandal,-2,85
+Dylan,American Vandal,-1,90
+Dylan,American Vandal,0,62
+Dylan,American Vandal,1,62
+Dylan,American Vandal,2,59
+Dylan,American Vandal,3,50
+Eve,Killing Eve,-3,21
+Eve,Killing Eve,-2,19
+Eve,Killing Eve,-1,17
+Eve,Killing Eve,0,23
+Eve,Killing Eve,1,20
+Eve,Killing Eve,2,10
+Eve,Killing Eve,3,18
+Erin,Derry Girls,-3,21
+Erin,Derry Girls,-2,16
+Erin,Derry Girls,-1,26
+Erin,Derry Girls,0,11
+Erin,Derry Girls,1,13
+Erin,Derry Girls,2,5
+Erin,Derry Girls,3,8
+Mary,Derry Girls,-3,31
+Mary,Derry Girls,-2,30
+Mary,Derry Girls,-1,35
+Mary,Derry Girls,0,38
+Mary,Derry Girls,1,26
+Mary,Derry Girls,2,23
+Mary,Derry Girls,3,17
+Alex,The Morning Show,-3,31
+Alex,The Morning Show,-2,37
+Alex,The Morning Show,-1,37
+Alex,The Morning Show,0,35
+Alex,The Morning Show,1,34
+Alex,The Morning Show,2,22
+Alex,The Morning Show,3,22
+Bradley,The Morning Show,-3,13
+Bradley,The Morning Show,-2,19
+Bradley,The Morning Show,-1,14
+Bradley,The Morning Show,0,9
+Bradley,The Morning Show,1,17
+Bradley,The Morning Show,2,13
+Bradley,The Morning Show,3,9
+Cory,The Morning Show,-3,6
+Cory,The Morning Show,-2,3
+Cory,The Morning Show,-1,3
+Cory,The Morning Show,0,7
+Cory,The Morning Show,1,4
+Cory,The Morning Show,2,2
+Cory,The Morning Show,3,7
+Anne,Gentleman Jack,-3,12
+Anne,Gentleman Jack,-2,5
+Anne,Gentleman Jack,-1,6
+Anne,Gentleman Jack,0,6
+Anne,Gentleman Jack,1,8
+Anne,Gentleman Jack,2,5
+Anne,Gentleman Jack,3,7
+Daniel,Cobra Kai,-3,151
+Daniel,Cobra Kai,-2,132
+Daniel,Cobra Kai,-1,126
+Daniel,Cobra Kai,0,118
+Daniel,Cobra Kai,1,125
+Daniel,Cobra Kai,2,128
+Daniel,Cobra Kai,3,99
+Johnny,Cobra Kai,-3,11
+Johnny,Cobra Kai,-2,10
+Johnny,Cobra Kai,-1,10
+Johnny,Cobra Kai,0,9
+Johnny,Cobra Kai,1,9
+Johnny,Cobra Kai,2,6
+Johnny,Cobra Kai,3,4
+Amanda,Cobra Kai,-3,20
+Amanda,Cobra Kai,-2,20
+Amanda,Cobra Kai,-1,15
+Amanda,Cobra Kai,0,9
+Amanda,Cobra Kai,1,11
+Amanda,Cobra Kai,2,13
+Amanda,Cobra Kai,3,17
+Jude,The Kominsky Method,-3,46
+Jude,The Kominsky Method,-2,55
+Jude,The Kominsky Method,-1,47
+Jude,The Kominsky Method,0,53
+Jude,The Kominsky Method,1,40
+Jude,The Kominsky Method,2,40
+Jude,The Kominsky Method,3,58
+Elena,My Brilliant Friend,-3,33
+Elena,My Brilliant Friend,-2,44
+Elena,My Brilliant Friend,-1,36
+Elena,My Brilliant Friend,0,46
+Elena,My Brilliant Friend,1,33
+Elena,My Brilliant Friend,2,31
+Elena,My Brilliant Friend,3,46
+David,Bodyguard,-3,115
+David,Bodyguard,-2,107
+David,Bodyguard,-1,102
+David,Bodyguard,0,93
+David,Bodyguard,1,90
+David,Bodyguard,2,84
+David,Bodyguard,3,80
+Angel,Pose,-3,20
+Angel,Pose,-2,15
+Angel,Pose,-1,19
+Angel,Pose,0,16
+Angel,Pose,1,11
+Angel,Pose,2,19
+Angel,Pose,3,16
+John,The Rookie,-3,105
+John,The Rookie,-2,98
+John,The Rookie,-1,91
+John,The Rookie,0,83
+John,The Rookie,1,64
+John,The Rookie,2,77
+John,The Rookie,3,82
+Angela,The Rookie,-3,24
+Angela,The Rookie,-2,20
+Angela,The Rookie,-1,16
+Angela,The Rookie,0,8
+Angela,The Rookie,1,14
+Angela,The Rookie,2,10
+Angela,The Rookie,3,12
+Harley,Harley Quinn,-3,20
+Harley,Harley Quinn,-2,20
+Harley,Harley Quinn,-1,15
+Harley,Harley Quinn,0,18
+Harley,Harley Quinn,1,10
+Harley,Harley Quinn,2,9
+Harley,Harley Quinn,3,13
+Kylie,Harley Quinn,-3,29
+Kylie,Harley Quinn,-2,27
+Kylie,Harley Quinn,-1,36
+Kylie,Harley Quinn,0,27
+Kylie,Harley Quinn,1,22
+Kylie,Harley Quinn,2,22
+Kylie,Harley Quinn,3,17
+Logan,Succession,-3,202
+Logan,Succession,-2,182
+Logan,Succession,-1,240
+Logan,Succession,0,193
+Logan,Succession,1,161
+Logan,Succession,2,123
+Logan,Succession,3,127
+Roman,Succession,-3,45
+Roman,Succession,-2,49
+Roman,Succession,-1,41
+Roman,Succession,0,40
+Roman,Succession,1,48
+Roman,Succession,2,41
+Roman,Succession,3,38
+Elliot,Gangs of London,-3,52
+Elliot,Gangs of London,-2,41
+Elliot,Gangs of London,-1,47
+Elliot,Gangs of London,0,44
+Elliot,Gangs of London,1,69
+Elliot,Gangs of London,2,45
+Elliot,Gangs of London,3,37
+Delilah,Wayne,-3,15
+Delilah,Wayne,-2,17
+Delilah,Wayne,-1,27
+Delilah,Wayne,0,16
+Delilah,Wayne,1,28
+Delilah,Wayne,2,28
+Delilah,Wayne,3,26
+Otis,Sex Education,-3,5
+Otis,Sex Education,-2,4
+Otis,Sex Education,-1,4
+Otis,Sex Education,0,5
+Otis,Sex Education,1,5
+Otis,Sex Education,2,9
+Otis,Sex Education,3,3
+Eric,Sex Education,-3,39
+Eric,Sex Education,-2,45
+Eric,Sex Education,-1,33
+Eric,Sex Education,0,22
+Eric,Sex Education,1,29
+Eric,Sex Education,2,19
+Eric,Sex Education,3,9
+Edward,For All Mankind,-3,31
+Edward,For All Mankind,-2,32
+Edward,For All Mankind,-1,26
+Edward,For All Mankind,0,30
+Edward,For All Mankind,1,35
+Edward,For All Mankind,2,25
+Edward,For All Mankind,3,20
+Max,New Amsterdam,-3,80
+Max,New Amsterdam,-2,94
+Max,New Amsterdam,-1,60
+Max,New Amsterdam,0,54
+Max,New Amsterdam,1,57
+Max,New Amsterdam,2,43
+Max,New Amsterdam,3,50
+Lauren,New Amsterdam,-3,35
+Lauren,New Amsterdam,-2,39
+Lauren,New Amsterdam,-1,34
+Lauren,New Amsterdam,0,29
+Lauren,New Amsterdam,1,26
+Lauren,New Amsterdam,2,26
+Lauren,New Amsterdam,3,17
+Eddie,Tacoma FD,-3,5
+Eddie,Tacoma FD,-2,3
+Eddie,Tacoma FD,-1,6
+Eddie,Tacoma FD,0,7
+Eddie,Tacoma FD,1,5
+Eddie,Tacoma FD,2,3
+Eddie,Tacoma FD,3,6
+Anne,Amphibia,-3,12
+Anne,Amphibia,-2,5
+Anne,Amphibia,-1,6
+Anne,Amphibia,0,6
+Anne,Amphibia,1,8
+Anne,Amphibia,2,5
+Anne,Amphibia,3,7
+Anna,Amphibia,-3,110
+Anna,Amphibia,-2,69
+Anna,Amphibia,-1,69
+Anna,Amphibia,0,67
+Anna,Amphibia,1,53
+Anna,Amphibia,2,67
+Anna,Amphibia,3,49
+Judy,Dead to Me,-3,6
+Judy,Dead to Me,-2,11
+Judy,Dead to Me,-1,10
+Judy,Dead to Me,0,14
+Judy,Dead to Me,1,6
+Judy,Dead to Me,2,6
+Judy,Dead to Me,3,9
+Charlie,Dead to Me,-3,115
+Charlie,Dead to Me,-2,110
+Charlie,Dead to Me,-1,96
+Charlie,Dead to Me,0,110
+Charlie,Dead to Me,1,97
+Charlie,Dead to Me,2,110
+Charlie,Dead to Me,3,105
+Stella,Godfather of Harlem,-3,69
+Stella,Godfather of Harlem,-2,62
+Stella,Godfather of Harlem,-1,46
+Stella,Godfather of Harlem,0,63
+Stella,Godfather of Harlem,1,64
+Stella,Godfather of Harlem,2,55
+Stella,Godfather of Harlem,3,47
+Alma,Undone,-3,3
+Alma,Undone,-2,5
+Alma,Undone,-1,8
+Alma,Undone,0,6
+Alma,Undone,1,9
+Alma,Undone,2,10
+Alma,Undone,3,6
+Camila,Undone,-3,11
+Camila,Undone,-2,14
+Camila,Undone,-1,19
+Camila,Undone,0,17
+Camila,Undone,1,16
+Camila,Undone,2,15
+Camila,Undone,3,15
+Maya,PEN15,-3,82
+Maya,PEN15,-2,75
+Maya,PEN15,-1,81
+Maya,PEN15,0,71
+Maya,PEN15,1,76
+Maya,PEN15,2,73
+Maya,PEN15,3,67
+Anna,PEN15,-3,110
+Anna,PEN15,-2,69
+Anna,PEN15,-1,69
+Anna,PEN15,0,67
+Anna,PEN15,1,53
+Anna,PEN15,2,67
+Anna,PEN15,3,49
+Tony,After Life,-3,7
+Tony,After Life,-2,9
+Tony,After Life,-1,5
+Tony,After Life,0,8
+Tony,After Life,1,4
+Tony,After Life,2,5
+Tony,After Life,3,5
+Jessica,Vagabond,-3,33
+Jessica,Vagabond,-2,36
+Jessica,Vagabond,-1,17
+Jessica,Vagabond,0,32
+Jessica,Vagabond,1,8
+Jessica,Vagabond,2,23
+Jessica,Vagabond,3,15
+Katherine,Ghosts,-3,26
+Katherine,Ghosts,-2,30
+Katherine,Ghosts,-1,16
+Katherine,Ghosts,0,24
+Katherine,Ghosts,1,16
+Katherine,Ghosts,2,15
+Katherine,Ghosts,3,13
+Thomas,Ghosts,-3,115
+Thomas,Ghosts,-2,125
+Thomas,Ghosts,-1,111
+Thomas,Ghosts,0,104
+Thomas,Ghosts,1,90
+Thomas,Ghosts,2,99
+Thomas,Ghosts,3,93
+Julian,Ghosts,-3,29
+Julian,Ghosts,-2,32
+Julian,Ghosts,-1,21
+Julian,Ghosts,0,33
+Julian,Ghosts,1,30
+Julian,Ghosts,2,28
+Julian,Ghosts,3,34
+Eli,The Righteous Gemstones,-3,81
+Eli,The Righteous Gemstones,-2,73
+Eli,The Righteous Gemstones,-1,62
+Eli,The Righteous Gemstones,0,63
+Eli,The Righteous Gemstones,1,51
+Eli,The Righteous Gemstones,2,48
+Eli,The Righteous Gemstones,3,67
+Jesse,The Righteous Gemstones,-3,38
+Jesse,The Righteous Gemstones,-2,47
+Jesse,The Righteous Gemstones,-1,29
+Jesse,The Righteous Gemstones,0,30
+Jesse,The Righteous Gemstones,1,19
+Jesse,The Righteous Gemstones,2,27
+Jesse,The Righteous Gemstones,3,26
+Callum,The Dragon Prince,-3,26
+Callum,The Dragon Prince,-2,27
+Callum,The Dragon Prince,-1,39
+Callum,The Dragon Prince,0,14
+Callum,The Dragon Prince,1,32
+Callum,The Dragon Prince,2,33
+Callum,The Dragon Prince,3,41
+Harry,Resident Alien,-3,11
+Harry,Resident Alien,-2,8
+Harry,Resident Alien,-1,9
+Harry,Resident Alien,0,10
+Harry,Resident Alien,1,5
+Harry,Resident Alien,2,1
+Harry,Resident Alien,3,4
+Nate,Euphoria,-3,25
+Nate,Euphoria,-2,22
+Nate,Euphoria,-1,15
+Nate,Euphoria,0,13
+Nate,Euphoria,1,19
+Nate,Euphoria,2,16
+Nate,Euphoria,3,16
+Emma,The Promised Neverland,-3,249
+Emma,The Promised Neverland,-2,215
+Emma,The Promised Neverland,-1,230
+Emma,The Promised Neverland,0,178
+Emma,The Promised Neverland,1,184
+Emma,The Promised Neverland,2,164
+Emma,The Promised Neverland,3,156
+Karl,Why Women Kill,-3,8
+Karl,Why Women Kill,-2,2
+Karl,Why Women Kill,-1,2
+Karl,Why Women Kill,0,9
+Karl,Why Women Kill,1,3
+Karl,Why Women Kill,2,4
+Karl,Why Women Kill,3,5
+Simone,Why Women Kill,-3,6
+Simone,Why Women Kill,-2,8
+Simone,Why Women Kill,-1,6
+Simone,Why Women Kill,0,6
+Simone,Why Women Kill,1,7
+Simone,Why Women Kill,2,5
+Simone,Why Women Kill,3,6
+Adam,Exit,-3,111
+Adam,Exit,-2,133
+Adam,Exit,-1,138
+Adam,Exit,0,136
+Adam,Exit,1,99
+Adam,Exit,2,115
+Adam,Exit,3,100
+Henrik,Exit,-3,3
+Henrik,Exit,-2,14
+Henrik,Exit,-1,21
+Henrik,Exit,0,15
+Henrik,Exit,1,13
+Henrik,Exit,2,16
+Henrik,Exit,3,18
