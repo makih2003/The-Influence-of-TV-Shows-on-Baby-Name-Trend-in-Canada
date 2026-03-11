@@ -16,11 +16,13 @@ This data science project is to investigate whether characters from popular TV s
 ```git lfs install```
 
 2. Clone the repository:
-```git clone <your-repo-url>```<br>
+```git clone https://github.com/makih2003/The-Influence-of-TV-Shows-on-Baby-Name-Trend-in-Canada.git```<br>
 ```cd <your-repo-directory>```
 
-3. Pull LFS-tracked files (If you do not see ```raw_data/```):
+3. Pull LFS-tracked files:
 ```git lfs pull```
+
+After step 3, your local repository should contain ```raw_data/title.principals.tsv.zip```
 
 ## Running the Code
 1. To install all necessary Python packages, run:  :<br>
