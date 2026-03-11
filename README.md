@@ -33,7 +33,7 @@ Example: ```python get_baby_name_csv.py```
 ## Project Structure
 ### Structure Overview
 ```
-cmpt353-project/
+The-Influence-of-TV-Shows-on-Baby-Name-Trend-in-Canada/
 ├── raw_data/
 ├── processed_data/
 ├── plots/
